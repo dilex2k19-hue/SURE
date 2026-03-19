@@ -1,0 +1,4178 @@
+[
+    {
+        "date": "08/02/25",
+        "time": "14:00",
+        "league": "Spain- Laliga",
+        "match": "Celta ➖Betis",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.70",
+        "status": "3:2â"
+    },
+    {
+        "date": "09/02/25",
+        "time": "15:00",
+        "league": "Italy - Serie A",
+        "match": "Cagliari ➖Parma",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.30",
+        "status": "2:1â"
+    },
+    {
+        "date": "11/02/25",
+        "time": "18:45",
+        "league": "UEFA - Champions League",
+        "match": "Brest ➖PSG",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.30",
+        "status": "0:3❌"
+    },
+    {
+        "date": "16/02/25",
+        "time": "16:30",
+        "league": "Portugal- Liga Portugal 2",
+        "match": "FC Porto B➖FC Panefiel",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.50",
+        "status": "3:2â"
+    },
+    {
+        "date": "26/02/25",
+        "time": "15:00",
+        "league": "Egypt- Premier League",
+        "match": "Modern Sport FC➖ El Gouna FC",
+        "prediction": "GG+Over 2.5",
+        "odds": "3.40",
+        "status": "2:3â"
+    },
+    {
+        "date": "14/04/25",
+        "time": "20:00",
+        "league": "Spain - Laliga",
+        "match": "Athletico Madrid ➖Real Vallidolid",
+        "prediction": "Home+GG",
+        "odds": "3.10",
+        "status": "4:2â"
+    },
+    {
+        "date": "14/04/25",
+        "time": "12:00",
+        "league": "Turkey- First League",
+        "match": "Bandirmaspor ➖Igdir FK",
+        "prediction": "Home/Draw+GG",
+        "odds": "2.40",
+        "status": "1:1â"
+    },
+    {
+        "date": "16/04/25",
+        "time": "20:00",
+        "league": "UEFA - Champions League",
+        "match": "Inter➖ Bayern Munich",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.80",
+        "status": "2:2â"
+    },
+    {
+        "date": "16/04/25",
+        "time": "19:30",
+        "league": "England- premier league",
+        "match": "Newcastle➖ Crystal Palace",
+        "prediction": "Home+Over 2.5",
+        "odds": "3.00",
+        "status": "5:0â"
+    },
+    {
+        "date": "18/04/25",
+        "time": "19:45",
+        "league": "France-  Ligue 1",
+        "match": "Stade Rennais➖FC Nantes",
+        "prediction": "Home+GG",
+        "odds": "4.40",
+        "status": "2:1â"
+    },
+    {
+        "date": "18/04/25",
+        "time": "18:00",
+        "league": "Portugal - Primera Liga",
+        "match": "FC Porto➖ Famalicao",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.80",
+        "status": "2:1â"
+    },
+    {
+        "date": "19/04/25",
+        "time": "17:30",
+        "league": "England - Premier League",
+        "match": "Aston Villa ➖Newcastle",
+        "prediction": "Home+GG",
+        "odds": "4.50",
+        "status": "4:1â"
+    },
+    {
+        "date": "19/04/25",
+        "time": "20:05",
+        "league": "France - Ligue 1",
+        "match": "Marseille ➖Montepellier",
+        "prediction": "Home+Over 3.5",
+        "odds": "2.40",
+        "status": "5:1â"
+    },
+    {
+        "date": "20/04/25",
+        "time": "13:00",
+        "league": "Spain - Laliga",
+        "match": "Real Vallidolid➖ Osasuna",
+        "prediction": "Away+Over 1.5",
+        "odds": "2.80",
+        "status": "2:3â"
+    },
+    {
+        "date": "20/04/25",
+        "time": "14:00",
+        "league": "England- premier league",
+        "match": "Ipswich Town➖ Arsenal",
+        "prediction": "Away+GG",
+        "odds": "3.40",
+        "status": "0:4❌"
+    },
+    {
+        "date": "21/04/25",
+        "time": "23:30",
+        "league": "Brazilian - Serie C",
+        "match": "Tombense➖Figueirsense",
+        "prediction": "GG",
+        "odds": "2.50",
+        "status": "3:2â"
+    },
+    {
+        "date": "21/04/25",
+        "time": "20:00",
+        "league": "Spain- Laliga",
+        "match": "Girona➖ Real Betis",
+        "prediction": "Away+GG",
+        "odds": "5.20",
+        "status": "1:3â"
+    },
+    {
+        "date": "22/04/25",
+        "time": "19:00",
+        "league": "Hungry - Cup",
+        "match": "Pakis FC➖ Zalaegerszegi TE",
+        "prediction": "Home+GG",
+        "odds": "3.35",
+        "status": "2:1â"
+    },
+    {
+        "date": "22/04/25",
+        "time": "20:45",
+        "league": "Portugal - Portugues Cup",
+        "match": "Rio Ave➖Sporting CP",
+        "prediction": "Away+GG",
+        "odds": "3.10",
+        "status": "1:2â"
+    },
+    {
+        "date": "23/04/25",
+        "time": "18:00",
+        "league": "Spain - Laliga",
+        "match": "Celta➖ Villarreal",
+        "prediction": "Home+Over 1.5",
+        "odds": "3.45",
+        "status": "3:0â"
+    },
+    {
+        "date": "23/04/25",
+        "time": "20:00",
+        "league": "England - Premier League",
+        "match": "Arsenal➖Crystal Palace",
+        "prediction": "Home/Draw+GG",
+        "odds": "3.10",
+        "status": "2:2â"
+    },
+    {
+        "date": "24/04/25",
+        "time": "18:00",
+        "league": "Sweden - Allsvenskan",
+        "match": "IFK Varnamo➖ Aik",
+        "prediction": "Away Win",
+        "odds": "2.80",
+        "status": "1:2â"
+    },
+    {
+        "date": "24/04/25",
+        "time": "17:45",
+        "league": "Netherlands - Eredivisie",
+        "match": "AZ Alkmaar➖NAC Breda",
+        "prediction": "Home/Draw+GG",
+        "odds": "3.90",
+        "status": "1:1â"
+    },
+    {
+        "date": "25/04/25",
+        "time": "19:45",
+        "league": "Spain - Laliga",
+        "match": "PSG➖ OGC Nice",
+        "prediction": "GG+Over 2.5",
+        "odds": "3.05",
+        "status": "1:3â"
+    },
+    {
+        "date": "25/04/25",
+        "time": "20:30",
+        "league": "Portugal - Liga portugal",
+        "match": "FC Famalicao➖Braga",
+        "prediction": "GG",
+        "odds": "2.20",
+        "status": "1:1â"
+    },
+    {
+        "date": "27/04/25",
+        "time": "17:00",
+        "league": "Turkiye - Super Lig",
+        "match": "Eyupspor➖ Galatasaray Istanbul",
+        "prediction": "Away+GG",
+        "odds": "3.00",
+        "status": "1:5â"
+    },
+    {
+        "date": "27/04/25",
+        "time": "18:15",
+        "league": "Norway - Eliteserien",
+        "match": "Viking FK➖Tromsoe IL",
+        "prediction": "Home Over 2.5",
+        "odds": "3.20",
+        "status": "4:4â"
+    },
+    {
+        "date": "28/04/25",
+        "time": "19:00",
+        "league": "Romania - Superlig",
+        "match": "FC Dinamo Bucuresti 1948➖ CFR Cluj",
+        "prediction": "Away/Draw+GG",
+        "odds": "5.10",
+        "status": "1:1â"
+    },
+    {
+        "date": "28/04/25",
+        "time": "18:00",
+        "league": "Turkiye - Superlig",
+        "match": "Goztape Izmir➖ Istanbul BB",
+        "prediction": "GG",
+        "odds": "2.10",
+        "status": "4:1â"
+    },
+    {
+        "date": "29/04/25",
+        "time": "20:00",
+        "league": "UEFA - Champions League",
+        "match": "Arsenal➖ PSG",
+        "prediction": "Home+GG",
+        "odds": "4.60",
+        "status": "0:1❌"
+    },
+    {
+        "date": "29/04/25",
+        "time": "19:45",
+        "league": "England Amatur - National League South",
+        "match": "Boreham Wood FC➖ Dorking Wanderers",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.10",
+        "status": "4:3â"
+    },
+    {
+        "date": "01/05/25",
+        "time": "19:30",
+        "league": "England - Premier League",
+        "match": "Nottingham Forest➖ Brentford",
+        "prediction": "Home+Over 1.5",
+        "odds": "3.00",
+        "status": "0:2❌"
+    },
+    {
+        "date": "01/05/25",
+        "time": "20:00",
+        "league": "UEFA - Conference League",
+        "match": "Betis➖Fiorentina",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.80",
+        "status": "2:1â"
+    },
+    {
+        "date": "03/05/25",
+        "time": "15:15",
+        "league": "Spain - Laliga",
+        "match": "Villarreal CF ➖CA Osasuna",
+        "prediction": "Home+GG",
+        "odds": "3.60",
+        "status": "4:2â"
+    },
+    {
+        "date": "03/05/25",
+        "time": "17:00",
+        "league": "Turkiye- Super League",
+        "match": "Galatasaray ➖Sivasspor",
+        "prediction": "Home+GG",
+        "odds": "2.40",
+        "status": "4:1â"
+    },
+    {
+        "date": "04/05/25",
+        "time": "17:30",
+        "league": "Spain - Laliga",
+        "match": "RCD Espanyol➖ Real Betis",
+        "prediction": "Away+GG",
+        "odds": "4.90",
+        "status": "1:2â"
+    },
+    {
+        "date": "04/05/25",
+        "time": "13:00",
+        "league": "Spain- Laliga",
+        "match": "Real Madrid➖ Celta",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.20",
+        "status": "3:2â"
+    },
+    {
+        "date": "05/05/25",
+        "time": "18:30",
+        "league": "Romania - Lig 1",
+        "match": "Fotbal Club FCSB➖FC Dinamo 1948",
+        "prediction": "Home+GG",
+        "odds": "3.75",
+        "status": "3:1â"
+    },
+    {
+        "date": "05/05/25",
+        "time": "19:45",
+        "league": "Italy- Serie A",
+        "match": "Genoa➖ AC Milian",
+        "prediction": "Away+GG",
+        "odds": "3.90",
+        "status": "1:2â"
+    },
+    {
+        "date": "06/05/25",
+        "time": "20:00",
+        "league": "UEFA - Champions League",
+        "match": "Inter➖ Barcelona",
+        "prediction": "Away/Draw+GG",
+        "odds": "2.70",
+        "status": "3:3â"
+    },
+    {
+        "date": "06/05/25",
+        "time": "15:00",
+        "league": "Egypt - Premier League",
+        "match": "Smouha SC➖Tala'ea El Gaish",
+        "prediction": "Draw",
+        "odds": "3.20",
+        "status": "0:0â"
+    },
+    {
+        "date": "07/05/25",
+        "time": "16:30",
+        "league": "Czech - National League",
+        "match": "Opava➖ Tescoma Zlin FC",
+        "prediction": "Away Win",
+        "odds": "2.80",
+        "status": "0:1â"
+    },
+    {
+        "date": "07/05/25",
+        "time": "19:00",
+        "league": "Italy - Serie C",
+        "match": "Renate➖Gian",
+        "prediction": "GG+Over 2.5",
+        "odds": "3.00",
+        "status": "1:2â"
+    },
+    {
+        "date": "08/05/25",
+        "time": "18:00",
+        "league": "Egypt - Premier League",
+        "match": "AI Ahly FC➖AI masry",
+        "prediction": "Home+GG",
+        "odds": "3.45",
+        "status": "4:2â"
+    },
+    {
+        "date": "08/05/25",
+        "time": "20:00",
+        "league": "UEFA - Conference League",
+        "match": "Fiorentina➖Real Betis",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.40",
+        "status": "2:1â"
+    },
+    {
+        "date": "09/05/25",
+        "time": "15:45",
+        "league": "Bulgaria- Parva Liga",
+        "match": "FC Arda➖Ludogorets",
+        "prediction": "Away/Draw+GG",
+        "odds": "3.10",
+        "status": "1:1â"
+    },
+    {
+        "date": "09/05/25",
+        "time": "19:30",
+        "league": "Italy - Serie C",
+        "match": "Sassuolo➖Catanzaro",
+        "prediction": "Away Over 1.5",
+        "odds": "2.25",
+        "status": "0:2â"
+    },
+    {
+        "date": "10/05/25",
+        "time": "15:15",
+        "league": "Spain- Laliga",
+        "match": "Celta➖Sevilla",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.50",
+        "status": "3:2â"
+    },
+    {
+        "date": "10/05/25",
+        "time": "20:00",
+        "league": "France  - Ligue1",
+        "match": "Le Havre FC➖Marsille",
+        "prediction": "Away+GG",
+        "odds": "3.15",
+        "status": "1:3â"
+    },
+    {
+        "date": "11/05/25",
+        "time": "14:15",
+        "league": "England- Premier League",
+        "match": "Manchester united➖ West Ham",
+        "prediction": "Home+GG",
+        "odds": "4.75",
+        "status": "0:2❌"
+    },
+    {
+        "date": "11/05/25",
+        "time": "18:00",
+        "league": "Sebia -Superliga",
+        "match": "Crvena Zvezda➖Vojivodina Novi Sad",
+        "prediction": "Home+GG",
+        "odds": "3.65",
+        "status": "1:1❌"
+    },
+    {
+        "date": "12/05/25",
+        "time": "19:00",
+        "league": "Saudi Arabi-Saudi Pro League",
+        "match": "Al Akhdoud Club➖ Al Nassr Club",
+        "prediction": "Away+Over 3.5",
+        "odds": "3.25",
+        "status": "0:9â"
+    },
+    {
+        "date": "12/05/25",
+        "time": "17:30",
+        "league": "Italy - Serie A",
+        "match": "Venezia FC➖Fiorentina",
+        "prediction": "GG",
+        "odds": "2.25",
+        "status": "2:1â"
+    },
+    {
+        "date": "14/05/25",
+        "time": "19:00",
+        "league": "Netherlands-Eredivise",
+        "match": "FC Groningen➖ Ajax",
+        "prediction": "Away+GG",
+        "odds": "4.00",
+        "status": "2:2❌"
+    },
+    {
+        "date": "14/05/25",
+        "time": "19:30",
+        "league": "Switzerland - Super League",
+        "match": "Lausanne-sport➖Basel",
+        "prediction": "Away Over 1.5",
+        "odds": "2.25",
+        "status": "2:3â"
+    },
+    {
+        "date": "16/05/25",
+        "time": "18:00",
+        "league": "Denmark- Superliga",
+        "match": "Nordsjealland➖  AGF Arhus",
+        "prediction": "Home+Over 1.5",
+        "odds": "2.20",
+        "status": "2:0â"
+    },
+    {
+        "date": "16/05/25",
+        "time": "16:55",
+        "league": "Saudi Arabia- Saudi pro League",
+        "match": "Al Fateh SC➖Al Hilal SFC",
+        "prediction": "Away+Over 2.5",
+        "odds": "2.00",
+        "status": "3:4â"
+    },
+    {
+        "date": "17/05/25",
+        "time": "20:00",
+        "league": "Frence- Ligue 1",
+        "match": "Marseille➖ Stade Rennes",
+        "prediction": "Home+GG",
+        "odds": "3.50",
+        "status": "4:2â"
+    },
+    {
+        "date": "17/05/25",
+        "time": "18:00",
+        "league": "Portugal- Liga Portugal",
+        "match": "FC Arouca➖Boavista FC",
+        "prediction": "Home+Over 1.5",
+        "odds": "2.25",
+        "status": "4:1â"
+    },
+    {
+        "date": "18/05/25",
+        "time": "15:40",
+        "league": "Switzerland- Super League",
+        "match": "FC Luzern➖  Servette Geneva",
+        "prediction": "Away win",
+        "odds": "3.00",
+        "status": "3:4â"
+    },
+    {
+        "date": "18/05/25",
+        "time": "19:45",
+        "league": "Italy- Serie A",
+        "match": "Verona➖ Como 1907",
+        "prediction": "Away/Draw+GG",
+        "odds": "2.85",
+        "status": "1:1â"
+    },
+    {
+        "date": "19/05/25",
+        "time": "18:00",
+        "league": "Turkiye - First League",
+        "match": "Boluspor ➖Bandirmaspor",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.60",
+        "status": "1:4â"
+    },
+    {
+        "date": "19/05/25",
+        "time": "19:30",
+        "league": "Italy- Serie B",
+        "match": "Salernitana ➖Frosino",
+        "prediction": "Home+GG",
+        "odds": "4.10",
+        "status": "Void"
+    },
+    {
+        "date": "20/05/25",
+        "time": "20:00",
+        "league": "England - Premier League",
+        "match": "Mancity➖ Bournemouth",
+        "prediction": "Home+GG",
+        "odds": "3.40",
+        "status": "3:1â"
+    },
+    {
+        "date": "20/05/25",
+        "time": "20:00",
+        "league": "England- Premier League",
+        "match": "Crystal Palace➖ Wolverhampton",
+        "prediction": "Home Win",
+        "odds": "2.70",
+        "status": "4:2â"
+    },
+    {
+        "date": "22/05/25",
+        "time": "17:45",
+        "league": "Netherlands - Eredivisie",
+        "match": "AZ Alkmear➖ Heerenveen",
+        "prediction": "Home+GG",
+        "odds": "3.45",
+        "status": "4:1â"
+    },
+    {
+        "date": "22/05/25",
+        "time": "17:00",
+        "league": "Bulgari- Bulgarian Cup",
+        "match": "Ludogorets➖ CSKA Sofia",
+        "prediction": "Home win",
+        "odds": "2.70",
+        "status": "1:0â"
+    },
+    {
+        "date": "24/05/25",
+        "time": "22:30",
+        "league": "Chile- Primera Division",
+        "match": "Colo Colo➖Union Espanola",
+        "prediction": "Home+GG",
+        "odds": "3.20",
+        "status": "4:1â"
+    },
+    {
+        "date": "24/05/25",
+        "time": "14:00",
+        "league": "Denmark-  Superliga",
+        "match": "Vejle➖Sonderjyske",
+        "prediction": "Away+Over 2.5",
+        "odds": "3.90",
+        "status": "2:3â"
+    },
+    {
+        "date": "25/05/25",
+        "time": "19:45",
+        "league": "Italy- Serie A",
+        "match": "Atalanta➖Parma",
+        "prediction": "Home+GG",
+        "odds": "3.10",
+        "status": "2:3❌"
+    },
+    {
+        "date": "25/05/25",
+        "time": "16:00",
+        "league": "England - Premier League",
+        "match": "Ipswich➖ West Ham",
+        "prediction": "Away win",
+        "odds": "2.35",
+        "status": "1:3â"
+    },
+    {
+        "date": "26/05/25",
+        "time": "18:45",
+        "league": "Bulgari- Parva liga",
+        "match": "Botev plovdiv➖PFC CSKA Sofia",
+        "prediction": "Away win",
+        "odds": "3.90",
+        "status": "0:4â"
+    },
+    {
+        "date": "26/05/25",
+        "time": "17:00",
+        "league": "Romania - Premier Lgue",
+        "match": "FC Voluntari➖ FC Unirea 2004 Slobozia",
+        "prediction": "Home win",
+        "odds": "2.65",
+        "status": "2:1â"
+    },
+    {
+        "date": "28/05/25",
+        "time": "19:30",
+        "league": "Argentina - Primera B League",
+        "match": "Sacachispas➖ UAI Urquiza",
+        "prediction": "Away/Draw+GG",
+        "odds": "2.90",
+        "status": "Void"
+    },
+    {
+        "date": "28/05/25",
+        "time": "18:00",
+        "league": "Egypt- Premier League",
+        "match": "Ceramica➖ Pyramid",
+        "prediction": "Away+Over 1.5",
+        "odds": "2.70",
+        "status": "1:5â"
+    },
+    {
+        "date": "29/05/25",
+        "time": "16:00",
+        "league": "Austrian-Bundesliga",
+        "match": "Lask Linz➖Rapid wien",
+        "prediction": "Home+GG",
+        "odds": "4.20",
+        "status": "3:1â"
+    },
+    {
+        "date": "29/05/25",
+        "time": "18:00",
+        "league": "Belguim- Pro League",
+        "match": "Royal Antwarp➖RC Sporting Charleroi",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.20",
+        "status": "1:2â"
+    },
+    {
+        "date": "30/05/25",
+        "time": "13:00",
+        "league": "Ethiopia - Premier League",
+        "match": "Shire Endaselessie FC➖ St George SC",
+        "prediction": "Away/Draw+GG",
+        "odds": "3.00",
+        "status": "1:2â"
+    },
+    {
+        "date": "30/05/25",
+        "time": "18:00",
+        "league": "Turkiye-  Super lig",
+        "match": "Kasimpasa➖Goztape",
+        "prediction": "Away+Over 1.5",
+        "odds": "3.50",
+        "status": "1:2â"
+    },
+    {
+        "date": "31/05/25",
+        "time": "19:30",
+        "league": "Argentina - Primera B League",
+        "match": "Sacachispas➖ Villa San Carlos",
+        "prediction": "Away Over 1.5",
+        "odds": "3.60",
+        "status": "0:1❌"
+    },
+    {
+        "date": "31/05/25",
+        "time": "16:30",
+        "league": "Bulgerian- Parva Liga",
+        "match": "Arda➖ CSKA Sofia",
+        "prediction": "Away Over 1.5",
+        "odds": "2.10",
+        "status": "1:1❌"
+    },
+    {
+        "date": "02/06/25",
+        "time": "19:30",
+        "league": "Argentina - Primera B",
+        "match": "Athletico Fenix➖Athletico Acassuso",
+        "prediction": "Away/Draw+Under 2.5",
+        "odds": "2.70",
+        "status": "0:0â"
+    },
+    {
+        "date": "02/06/25",
+        "time": "16:00",
+        "league": "Norway- 3rd Division",
+        "match": "Fredrikstad FK➖ Kvik Halden FK",
+        "prediction": "Away Win",
+        "odds": "2.30",
+        "status": "2:3â"
+    },
+    {
+        "date": "04/06/25",
+        "time": "19:45",
+        "league": "International-World Cup UEFA",
+        "match": "Germany➖Portugal",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.80",
+        "status": "1:2â"
+    },
+    {
+        "date": "04/06/25",
+        "time": "19:30",
+        "league": "Argentina - Primera B",
+        "match": "Sacachaspas ➖UIA Urquiza",
+        "prediction": "GG",
+        "odds": "2.35",
+        "status": "1:1â"
+    },
+    {
+        "date": "05/06/25",
+        "time": "18:30",
+        "league": "Germany - Bundesliga 5",
+        "match": "TSV Schott Mainz➖ SC idar Oberstein",
+        "prediction": "Home+GG",
+        "odds": "3.15",
+        "status": "Void"
+    },
+    {
+        "date": "05/06/25",
+        "time": "19:15",
+        "league": "FIFA World Cup - AFC",
+        "match": "Iraq➖ South Korea",
+        "prediction": "Away win",
+        "odds": "2.40",
+        "status": "0:2â"
+    },
+    {
+        "date": "06/06/25",
+        "time": "19:45",
+        "league": "International -World Cup UEAFA",
+        "match": "Norway➖Italy",
+        "prediction": "Away Win",
+        "odds": "2.90",
+        "status": "3:0❌"
+    },
+    {
+        "date": "06/06/25",
+        "time": "23:00",
+        "league": "International-World Cup CONMEBOL",
+        "match": "Venezuela➖Bolivia",
+        "prediction": "Home+Over 1.5",
+        "odds": "2.30",
+        "status": "2:0â"
+    },
+    {
+        "date": "07/06/25",
+        "time": "19:45",
+        "league": "International-World Cup UEFA",
+        "match": "Austria➖Romania",
+        "prediction": "Home+GG",
+        "odds": "3.40",
+        "status": "2:1â"
+    },
+    {
+        "date": "07/06/25",
+        "time": "19:30",
+        "league": "Argentina - Primera B",
+        "match": "Villa San Carlos ➖San Martin",
+        "prediction": "Home win",
+        "odds": "2.65",
+        "status": "2:1â"
+    },
+    {
+        "date": "08/06/25",
+        "time": "19:45",
+        "league": "International -World Cup UEFA",
+        "match": "Portugal➖ Spain",
+        "prediction": "Draw+GG",
+        "odds": "4.15",
+        "status": "2:2â"
+    },
+    {
+        "date": "08/06/25",
+        "time": "19:45",
+        "league": "Spain -Laliga 2",
+        "match": "Racing Standarad➖ CD Mirandes",
+        "prediction": "GG",
+        "odds": "2.05",
+        "status": "3:3â"
+    },
+    {
+        "date": "09/06/25",
+        "time": "19:45",
+        "league": "International-World Cup UEFA",
+        "match": "Croatia➖Czechi",
+        "prediction": "Home+GG",
+        "odds": "3.40",
+        "status": "5:1â"
+    },
+    {
+        "date": "09/06/25",
+        "time": "19:30",
+        "league": "International - World Cup UEFA",
+        "match": "Belgium ➖Wales",
+        "prediction": "Home Over 2.5",
+        "odds": "2.75",
+        "status": "4:3â"
+    },
+    {
+        "date": "11/06/25",
+        "time": "20:00",
+        "league": "International Youth:U21 Championship",
+        "match": "Poland➖Geogia",
+        "prediction": "Home+Over 2.5",
+        "odds": "3.25",
+        "status": "1:2❌"
+    },
+    {
+        "date": "11/06/25",
+        "time": "17:00",
+        "league": "International - U21 Championship",
+        "match": "Slovakia➖Spain",
+        "prediction": "Away+GG",
+        "odds": "2.80",
+        "status": "2:3â"
+    },
+    {
+        "date": "13/06/25",
+        "time": "18:00",
+        "league": "Brazil - Serie A",
+        "match": "Athletico Miniero ➖Internacional RS",
+        "prediction": "Home win",
+        "odds": "2.60",
+        "status": "2:0â"
+    },
+    {
+        "date": "13/06/25",
+        "time": "11:30",
+        "league": "Chile- Premera Division",
+        "match": "Municipal Iquique ➖Colo Colo",
+        "prediction": "GG+Over 2.5",
+        "odds": "3.10",
+        "status": "2:2â"
+    },
+    {
+        "date": "14/06/25",
+        "time": "19:30",
+        "league": "Argentina - Primera B",
+        "match": "San Martin➖Sportivo Dock Sud",
+        "prediction": "GG+Over 2.5",
+        "odds": "3.00",
+        "status": "4:2â"
+    },
+    {
+        "date": "14/06/25",
+        "time": "22:30",
+        "league": "Bolivia- Primera Division",
+        "match": "Real oruro➖ The Strongest",
+        "prediction": "Away+GG",
+        "odds": "3.45",
+        "status": "1:2â"
+    },
+    {
+        "date": "15/06/25",
+        "time": "19:15",
+        "league": "Argentina- Primera B",
+        "match": "Comunicaciones BsAS➖Real Pillar",
+        "prediction": "Away win",
+        "odds": "2.50",
+        "status": "0:1â"
+    },
+    {
+        "date": "15/06/25",
+        "time": "13:10",
+        "league": "Ethiopia -Premier League",
+        "match": "Fasil Kenema➖Adama City",
+        "prediction": "Draw",
+        "odds": "3.10",
+        "status": "2:2â"
+    },
+    {
+        "date": "17/06/25",
+        "time": "20:00",
+        "league": "International-FIFA World Cup",
+        "match": "CA River Plate➖ Urawa Red Diamond",
+        "prediction": "Home+Over 2.5",
+        "odds": "2.45",
+        "status": "3:1â"
+    },
+    {
+        "date": "17/06/25",
+        "time": "13:00",
+        "league": "Ethiopia -Premier League",
+        "match": "Dire Dawa➖Shire Endaselassie FC",
+        "prediction": "Home/Draw+GG",
+        "odds": "2.70",
+        "status": "4:2â"
+    },
+    {
+        "date": "18/06/25",
+        "time": "23:00",
+        "league": "International-FIFA World Cup",
+        "match": "CF Pachuca ➖ Salzburg",
+        "prediction": "Away Win",
+        "odds": "2.95",
+        "status": "1:2â"
+    },
+    {
+        "date": "18/06/25",
+        "time": "16:00",
+        "league": "Estonia - Premium Liga",
+        "match": "Trans Narve➖ FC Flora Tallinn",
+        "prediction": "Away+GG",
+        "odds": "2.90",
+        "status": "1:2â"
+    },
+    {
+        "date": "20/06/25",
+        "time": "14:00",
+        "league": "Lebanon-Premier League",
+        "match": "Racing Beirut ➖ Shabab AL Sahel",
+        "prediction": "Away Win",
+        "odds": "2.35",
+        "status": "0:2â"
+    },
+    {
+        "date": "20/06/25",
+        "time": "19:45",
+        "league": "Ireland -First Division",
+        "match": "Kerry FC➖ Bray Wanderers",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.35",
+        "status": "2:1â"
+    },
+    {
+        "date": "22/06/25",
+        "time": "20:15",
+        "league": "Iceland- Besta Deild",
+        "match": "AI Akranes ➖Stjarnan Gardabea",
+        "prediction": "Away Win",
+        "odds": "2.60",
+        "status": "0:3â"
+    },
+    {
+        "date": "22/06/25",
+        "time": "18:00",
+        "league": "Latvia - Virsliga",
+        "match": "Rigas Futbola Skola➖ FK Auda",
+        "prediction": "Home+Over 2.5",
+        "odds": "3.10",
+        "status": "1:0❌"
+    },
+    {
+        "date": "24/06/25",
+        "time": "16:00",
+        "league": "Finland-Suomen Cup",
+        "match": "AC Oulu  ➖ Seinajoen",
+        "prediction": "Away+Over 2.5",
+        "odds": "3.00",
+        "status": "2:0❌"
+    },
+    {
+        "date": "24/06/25",
+        "time": "01:30",
+        "league": "Colombia - Primera A Apertura",
+        "match": "Independiente santa fe➖Independiente Medellin",
+        "prediction": "GG",
+        "odds": "2.25",
+        "status": "0:0❌"
+    },
+    {
+        "date": "25/06/25",
+        "time": "20:15",
+        "league": "Iceland - Ice LLC",
+        "match": "Gardabaer➖UMF Vidir",
+        "prediction": "Home+Over 2.5",
+        "odds": "2.95",
+        "status": "4:2â"
+    },
+    {
+        "date": "25/06/25",
+        "time": "17:00",
+        "league": "Norway- Breathrens Cup",
+        "match": "Lillestrom➖ KFUM Oslo",
+        "prediction": "Home win",
+        "odds": "2.65",
+        "status": "2:0â"
+    },
+    {
+        "date": "26/06/25",
+        "time": "20:00",
+        "league": "Bolivia- Copa LFBP",
+        "match": "Always Ready➖The Strongest",
+        "prediction": "Home+Over 2.5",
+        "odds": "3.20",
+        "status": "2:1â"
+    },
+    {
+        "date": "26/06/25",
+        "time": "23:30",
+        "league": "Bolivia -Copa LFBP",
+        "match": "Club Guabira - Oriente Petrolero",
+        "prediction": "Away Over 1.5",
+        "odds": "2.80",
+        "status": "3:3â"
+    },
+    {
+        "date": "27/06/25",
+        "time": "19:30",
+        "league": "Iceland-Besta Delid",
+        "match": "KA Akureyri ➖Valur Reykjavik",
+        "prediction": "Away+GG",
+        "odds": "3.30",
+        "status": "2:5â"
+    },
+    {
+        "date": "27/06/25",
+        "time": "20:15",
+        "league": "Iceland - Besta Delid",
+        "match": "Stjarnan➖Breidablik",
+        "prediction": "Away+GG",
+        "odds": "3.55",
+        "status": "1:4â"
+    },
+    {
+        "date": "28/06/25",
+        "time": "21:20",
+        "league": "Argentina- Primera Nacional",
+        "match": "Temperley➖Chaco for ever",
+        "prediction": "Draw",
+        "odds": "3.00",
+        "status": "2:2â"
+    },
+    {
+        "date": "28/06/25",
+        "time": "19:00",
+        "league": "Argentina- Primera Nacional",
+        "match": "Tristan Suarez➖ Ferrol carril Oeste",
+        "prediction": "GG",
+        "odds": "2.50",
+        "status": "1:1â"
+    },
+    {
+        "date": "29/06/25",
+        "time": "20:00",
+        "league": "Iceland- Besta Delid",
+        "match": "KR Reykjavik➖Hafnarfjordur",
+        "prediction": "Home+Over 2.5",
+        "odds": "3.00",
+        "status": "3:2â"
+    },
+    {
+        "date": "29/06/25",
+        "time": "23:00",
+        "league": "Brazil -Serie 4",
+        "match": "Chapecoense SC -Goias EC",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.80",
+        "status": "1:2â"
+    },
+    {
+        "date": "30/06/25",
+        "time": "16:00",
+        "league": "Lativa- Virsliga",
+        "match": "BF Daugavpils ➖FK Rigas Futbola skul",
+        "prediction": "Away+GG",
+        "odds": "2.90",
+        "status": "1:7â"
+    },
+    {
+        "date": "30/06/25",
+        "time": "13:00",
+        "league": "China- Super League",
+        "match": "shanzhen peng➖Shanghai port FC",
+        "prediction": "Away+GG",
+        "odds": "3.35",
+        "status": "1:2â"
+    },
+    {
+        "date": "01/07/25",
+        "time": "20:30",
+        "league": "Iceland- Iceland Cup",
+        "match": "Valur Reykjavik➖Stjarnan",
+        "prediction": "Home+GG",
+        "odds": "2.90",
+        "status": "3:1â"
+    },
+    {
+        "date": "01/07/25",
+        "time": "14:00",
+        "league": "Lebanon- Premier League",
+        "match": "Shabab Baalbek SC➖ Bourj SC",
+        "prediction": "Away+Over 1.5",
+        "odds": "2.70",
+        "status": "0:3â"
+    },
+    {
+        "date": "03/07/25",
+        "time": "14:30",
+        "league": "Lebanon- Premier League",
+        "match": "AL Nejmah SC➖Al Ahed SC",
+        "prediction": "Home Over 1.5",
+        "odds": "3.00",
+        "status": "4:1â"
+    },
+    {
+        "date": "03/07/25",
+        "time": "23:00",
+        "league": "Iceland -1 delid",
+        "match": "UMF Grindvik -UMF Njardvik",
+        "prediction": "Away+GG",
+        "odds": "2.80",
+        "status": "1:5â"
+    },
+    {
+        "date": "05/07/25",
+        "time": "15:00",
+        "league": "Iceland- Besta Delid",
+        "match": "IF Vestri➖Valur Reykjavik",
+        "prediction": "Away+Over 2.5",
+        "odds": "2.50",
+        "status": "0:2❌"
+    },
+    {
+        "date": "05/07/25",
+        "time": "13:00",
+        "league": "Norway- Eliteserien",
+        "match": "Hamkam➖ SK Brann",
+        "prediction": "Away+Over 1.5",
+        "odds": "2.70",
+        "status": "1:2â"
+    },
+    {
+        "date": "06/07/25",
+        "time": "15:00",
+        "league": "Faroe Islands- Premier League",
+        "match": "B32 Torshvan➖ TB Torshvan",
+        "prediction": "Draw/Away+Over 2.5",
+        "odds": "2.70",
+        "status": "2:2â"
+    },
+    {
+        "date": "06/07/25",
+        "time": "15:00",
+        "league": "Estonia-Premium Liga",
+        "match": "JK Tallinna kalev➖Tartu JK Tammeka",
+        "prediction": "Away+Over 2.5",
+        "odds": "2.80",
+        "status": "3:2❌"
+    },
+    {
+        "date": "08/07/25",
+        "time": "17:00",
+        "league": "Finland- Kakkonen Group B",
+        "match": "HPS➖Atlantis FC",
+        "prediction": "Home Over 1.5",
+        "odds": "3.00",
+        "status": "3:1â"
+    },
+    {
+        "date": "08/07/25",
+        "time": "17:30",
+        "league": "International- UEFA Champions",
+        "match": "FC Levadia Tallinn➖Rigas Futbola Skull",
+        "prediction": "Home Over 1.5",
+        "odds": "3.20",
+        "status": "0:1❌"
+    },
+    {
+        "date": "10/07/25",
+        "time": "17:00",
+        "league": "International-UEFA EUropa League",
+        "match": "Sabah Masazir➖NK Celje",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.70",
+        "status": "Pending"
+    },
+    {
+        "date": "10/07/25",
+        "time": "18:00",
+        "league": "International- UEFA Europa League",
+        "match": "Pakis FC➖ CFR Cluj",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.70",
+        "status": "Pending"
+    },
+    {
+        "date": "16/07/25",
+        "time": "23:00",
+        "league": "Brazil- Serie A",
+        "match": "Palmieras➖Mirassol",
+        "prediction": "GG",
+        "odds": "2.50",
+        "status": "1:1â"
+    },
+    {
+        "date": "16/07/25",
+        "time": "16:30",
+        "league": "Finland - Ykkosliga",
+        "match": "JIPPO -Ekenas IF Fotboll",
+        "prediction": "Home+GG",
+        "odds": "3.40",
+        "status": "3:2â"
+    },
+    {
+        "date": "17/07/25",
+        "time": "19:00",
+        "league": "International- UEFA Europa League",
+        "match": "NK Celgie➖Sabah Masazir",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.70",
+        "status": "2:3â"
+    },
+    {
+        "date": "17/07/25",
+        "time": "14:00",
+        "league": "International- Friendly Game",
+        "match": "SV Darmstadt 98➖ST Gallen",
+        "prediction": "Home+Over 1.5",
+        "odds": "3.00",
+        "status": "4:2â"
+    },
+    {
+        "date": "01/08/25",
+        "time": "19:45",
+        "league": "Ireland - First Division",
+        "match": "Bray Wanderers➖Treaty United",
+        "prediction": "Home win",
+        "odds": "2.75",
+        "status": "3:2â"
+    },
+    {
+        "date": "02/08/25",
+        "time": "19:00",
+        "league": "Austria - 2 Liga",
+        "match": "FK Austria Vienna➖St Polten",
+        "prediction": "Away+Over 2.5",
+        "odds": "2.55",
+        "status": "1:4â"
+    },
+    {
+        "date": "02/08/25",
+        "time": "15:00",
+        "league": "Belguim - Pro League",
+        "match": "KVC Westerlo➖ Zulte-Waregem",
+        "prediction": "Home+Over GG",
+        "odds": "3.25",
+        "status": "3:1â"
+    },
+    {
+        "date": "04/08/25",
+        "time": "17:00",
+        "league": "Ireland - First Division",
+        "match": "Athlone Town➖FC Dublin",
+        "prediction": "Away Win",
+        "odds": "2.70",
+        "status": "1:2â"
+    },
+    {
+        "date": "04/08/25",
+        "time": "17:00",
+        "league": "Ireland - First Division",
+        "match": "Finn Harps➖Bray Wanderers",
+        "prediction": "Away Over 1.5",
+        "odds": "2.90",
+        "status": "2:2â"
+    },
+    {
+        "date": "05/08/25",
+        "time": "19:45",
+        "league": "International -Europa Champions League",
+        "match": "Rangers➖ Viktoria Plzen",
+        "prediction": "Home+Over 1.5",
+        "odds": "2.30",
+        "status": "3:0â"
+    },
+    {
+        "date": "05/08/25",
+        "time": "19:45",
+        "league": "International -Conference League",
+        "match": "Klaksvik➖Neman",
+        "prediction": "Home win",
+        "odds": "2.60",
+        "status": "2:0â"
+    },
+    {
+        "date": "07/08/25",
+        "time": "17:00",
+        "league": "International- Europa League",
+        "match": "Fredrikstad➖Midtjlland",
+        "prediction": "Away+Over 2.5",
+        "odds": "3.15",
+        "status": "1:3â"
+    },
+    {
+        "date": "07/08/25",
+        "time": "19:30",
+        "league": "International - Europa League",
+        "match": "Servette➖ FC Utrecht",
+        "prediction": "Away Over 1.5",
+        "odds": "2.70",
+        "status": "1:3â"
+    },
+    {
+        "date": "09/08/25",
+        "time": "17:00",
+        "league": "England- Emirates Cup",
+        "match": "Arsenal ➖Atlatic Bilbao",
+        "prediction": "Home +Over 2.5",
+        "odds": "2.60",
+        "status": "3:0â"
+    },
+    {
+        "date": "09/08/25",
+        "time": "17:45",
+        "league": "Netherlands- Premera Division",
+        "match": "Feyenoord➖NAC Breda",
+        "prediction": "Home+GG",
+        "odds": "2.90",
+        "status": "2:0❌"
+    },
+    {
+        "date": "10/08/25",
+        "time": "16:00",
+        "league": "Czech- Third League",
+        "match": "SK Kladno ➖ FK Pribram",
+        "prediction": "Home+GG",
+        "odds": "2.90",
+        "status": "5:2â"
+    },
+    {
+        "date": "10/08/25",
+        "time": "17:00",
+        "league": "Czech- Third League",
+        "match": "Hlucin➖ Unicov",
+        "prediction": "Away Win",
+        "odds": "2.40",
+        "status": "0:2â"
+    },
+    {
+        "date": "11/08/25",
+        "time": "18:00",
+        "league": "Denmark- Superliga",
+        "match": "Odense BK➖Randers FC",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.50",
+        "status": "3:2â"
+    },
+    {
+        "date": "11/08/25",
+        "time": "19:45",
+        "league": "France- Ligue 2",
+        "match": "Amiens➖ Stade de Reims",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.70",
+        "status": "2:2â"
+    },
+    {
+        "date": "12/08/25",
+        "time": "18:00",
+        "league": "International-Champions League",
+        "match": "FC Viktoria Plzen➖Rangers",
+        "prediction": "Home+Over 2.5",
+        "odds": "3.10",
+        "status": "2:1â"
+    },
+    {
+        "date": "12/08/25",
+        "time": "18:30",
+        "league": "International-Champions League",
+        "match": "Club Brugge - Red Bull Salzburg",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.40",
+        "status": "3:2â"
+    },
+    {
+        "date": "13/08/25",
+        "time": "15:00",
+        "league": "AFC-Champions League 2",
+        "match": "FC Goa➖ AL Seeb SC",
+        "prediction": "Home+GG",
+        "odds": "4.10",
+        "status": "2:1â"
+    },
+    {
+        "date": "13/08/25",
+        "time": "19:45",
+        "league": "England- EFL CUP",
+        "match": "Bolton Wanderers➖Sheffield Wednesday",
+        "prediction": "Away Over 1.5",
+        "odds": "3.00",
+        "status": "3:3â"
+    },
+    {
+        "date": "15/08/25",
+        "time": "19:30",
+        "league": "Turkiye- SuperLig",
+        "match": "Galatasaray➖ Faith Karagumruk",
+        "prediction": "Home Over 2.5",
+        "odds": "3.00",
+        "status": "3:0â"
+    },
+    {
+        "date": "15/08/25",
+        "time": "20:00",
+        "league": "England- Premier League",
+        "match": "Liverpool➖ Bournemouth",
+        "prediction": "Home+GG",
+        "odds": "4.20",
+        "status": "4:2â"
+    },
+    {
+        "date": "16/08/25",
+        "time": "16:00",
+        "league": "Austria- Bundesliga",
+        "match": "TSV Hartberg➖Red Bull salzburg",
+        "prediction": "Away+GG",
+        "odds": "3.25",
+        "status": "1:2â"
+    },
+    {
+        "date": "16/08/25",
+        "time": "18:00",
+        "league": "France- Ligue 1",
+        "match": "Monaco➖ Le Havre",
+        "prediction": "Home+GG",
+        "odds": "3.20",
+        "status": "3:1â"
+    },
+    {
+        "date": "17/08/25",
+        "time": "19:30",
+        "league": "Germany - Bundesliga",
+        "match": "Union Berlin ➖  Borussia Monchengladbach",
+        "prediction": "Home+GG",
+        "odds": "3.90",
+        "status": "3:1â"
+    },
+    {
+        "date": "17/08/25",
+        "time": "20:00",
+        "league": "Spain - Laliga",
+        "match": "Real Oviedo➖Espanyol",
+        "prediction": "Away win",
+        "odds": "2.80",
+        "status": "0:2â"
+    },
+    {
+        "date": "17/08/25",
+        "time": "14:00",
+        "league": "France-Ligue 1",
+        "match": "Brest➖Lille",
+        "prediction": "Home Over 1.5",
+        "odds": "2.90",
+        "status": "3:3â"
+    },
+    {
+        "date": "17/08/25",
+        "time": "19:30",
+        "league": "Turkiy-Super League",
+        "match": "Besitas - Eyupspor",
+        "prediction": "Home+GG",
+        "odds": "3.00",
+        "status": "2:1â"
+    },
+    {
+        "date": "18/08/25",
+        "time": "15:00",
+        "league": "England - Premier League",
+        "match": "Burnley➖Leeds",
+        "prediction": "Home Over 1.5",
+        "odds": "2.95",
+        "status": "2:0â"
+    },
+    {
+        "date": "18/08/25",
+        "time": "20:00",
+        "league": "France - Ligue 1",
+        "match": "Marsille➖Havre Athletic Club",
+        "prediction": "Home+GG",
+        "odds": "3.10",
+        "status": "6:2â"
+    },
+    {
+        "date": "18/08/25",
+        "time": "20:00",
+        "league": "Spain-Laliga",
+        "match": "Elche CF ➖Real Betis",
+        "prediction": "Away/Draw+GG",
+        "odds": "2.60",
+        "status": "1:1â"
+    },
+    {
+        "date": "18/08/25",
+        "time": "17:00",
+        "league": "Germany- DFB Pokal",
+        "match": "Dynamo Dresden➖ Mainz",
+        "prediction": "Away+Under 3.5",
+        "odds": "2.80",
+        "status": "0:1â"
+    },
+    {
+        "date": "20/08/25",
+        "time": "20:00",
+        "league": "UEFA-Champions League",
+        "match": "Basel➖ Copeh",
+        "prediction": "Home/Draw+GG",
+        "odds": "2.70",
+        "status": "1:1â"
+    },
+    {
+        "date": "20/08/25",
+        "time": "17:00",
+        "league": "Poland- 1 Liga",
+        "match": "Chrobry Glogow➖WKS Slask Wroclaw",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.00",
+        "status": "1:2â"
+    },
+    {
+        "date": "21/08/25",
+        "time": "19:00",
+        "league": "UEFA-Conference League",
+        "match": "RSC Anderlecht➖ AEK Athens",
+        "prediction": "Home Over 1.5",
+        "odds": "2.50",
+        "status": "1:1❌"
+    },
+    {
+        "date": "21/08/25",
+        "time": "19:00",
+        "league": "UEFA- Conference League",
+        "match": "HSK Zrinjska mostar➖ Utrecht",
+        "prediction": "Away+Under 3.5",
+        "odds": "3.10",
+        "status": "0:2â"
+    },
+    {
+        "date": "23/08/25",
+        "time": "16:00",
+        "league": "France- Ligue 1",
+        "match": "Marsille ➖Paris",
+        "prediction": "Home+GG",
+        "odds": "2.70",
+        "status": "5:2â"
+    },
+    {
+        "date": "23/08/25",
+        "time": "17:00",
+        "league": "Switzerland- Super League",
+        "match": "FC Zurich➖FC Thun",
+        "prediction": "Away Over 1.5",
+        "odds": "2.90",
+        "status": "0:4â"
+    },
+    {
+        "date": "24/08/25",
+        "time": "14:00",
+        "league": "Paraguay- Segunda Division",
+        "match": "Guarian➖Resistencia SC",
+        "prediction": "Away/Draw+GG",
+        "odds": "2.70",
+        "status": "1:2â"
+    },
+    {
+        "date": "24/08/25",
+        "time": "19:15",
+        "league": "Slovein- 1 Liga",
+        "match": "NK Bravo➖ NK Ceije",
+        "prediction": "Away Over 2.5",
+        "odds": "3.20",
+        "status": "0:5â"
+    },
+    {
+        "date": "25/08/25",
+        "time": "20:30",
+        "league": "Spain-Laliga",
+        "match": "Sevilla➖ Gatef",
+        "prediction": "GG",
+        "odds": "2.50",
+        "status": "1:2â"
+    },
+    {
+        "date": "25/08/25",
+        "time": "16:00",
+        "league": "Finland- Veikkausliiga",
+        "match": "FC Haka➖ Seinajoen JK",
+        "prediction": "Away+GG",
+        "odds": "3.10",
+        "status": "2:3â"
+    },
+    {
+        "date": "26/08/25",
+        "time": "18:00",
+        "league": "Sweden- Supperettan",
+        "match": "Kalmar FF➖ Helsingborgs",
+        "prediction": "Home+Over 1.5",
+        "odds": "2.30",
+        "status": "2:0â"
+    },
+    {
+        "date": "26/08/25",
+        "time": "20:15",
+        "league": "Iceland- Besta deild",
+        "match": "value Reykjavik➖Afurelding",
+        "prediction": "Home+GG",
+        "odds": "2.80",
+        "status": "4:2â"
+    },
+    {
+        "date": "27/08/25",
+        "time": "20:00",
+        "league": "Spain- Laliga",
+        "match": "Celta➖ Betis",
+        "prediction": "Away+GG",
+        "odds": "2.30",
+        "status": "1:1â"
+    },
+    {
+        "date": "27/08/25",
+        "time": "17:30",
+        "league": "Paraguay-Copa Paraguay",
+        "match": "Club Slivo pettirossi➖Resistencia SC",
+        "prediction": "Away Win",
+        "odds": "4.10",
+        "status": "0:2â"
+    },
+    {
+        "date": "08/09/25",
+        "time": "19:30",
+        "league": "Paraguay - Segunde Division",
+        "match": "Resistencia➖ Tacuary",
+        "prediction": "Home+GG",
+        "odds": "4.60",
+        "status": "3:2â"
+    },
+    {
+        "date": "08/09/25",
+        "time": "19:45",
+        "league": "World Cup -Qualification",
+        "match": "Switzerland➖Slovein",
+        "prediction": "Home+Over 2.5",
+        "odds": "2.60",
+        "status": "3:0â"
+    },
+    {
+        "date": "09/09/25",
+        "time": "17:00",
+        "league": "World Cup- Qualification",
+        "match": "Armenia➖Ireland",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.85",
+        "status": "2:1â"
+    },
+    {
+        "date": "09/09/25",
+        "time": "19:45",
+        "league": "World Cup - Qualification",
+        "match": "Hungary➖ Portugal",
+        "prediction": "Away+Over 2.5",
+        "odds": "2.80",
+        "status": "2:3â"
+    },
+    {
+        "date": "12/09/25",
+        "time": "20:00",
+        "league": "Spain- Laliga",
+        "match": "Sevilla FC➖Elche",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.85",
+        "status": "2:2â"
+    },
+    {
+        "date": "12/09/25",
+        "time": "19:00",
+        "league": "Frence- Ligue 1",
+        "match": "Pau FC➖ Red Star FC",
+        "prediction": "Away Win",
+        "odds": "3.30",
+        "status": "0:3â"
+    },
+    {
+        "date": "13/09/25",
+        "time": "17:45",
+        "league": "Netherlands- Eredivisie",
+        "match": "NEC Nijmegan➖ PSV Eindhoven",
+        "prediction": "Away+GG",
+        "odds": "2.90",
+        "status": "3:5â"
+    },
+    {
+        "date": "13/09/25",
+        "time": "15:15",
+        "league": "Spain- Laliga",
+        "match": "Real Sociedad➖ Real Madrid",
+        "prediction": "Away+GG",
+        "odds": "3.10",
+        "status": "1:2â"
+    },
+    {
+        "date": "14/09/25",
+        "time": "14:00",
+        "league": "Italy- Serie A",
+        "match": "SC Pisa➖Udinese",
+        "prediction": "Away Win",
+        "odds": "2.95",
+        "status": "0:1â"
+    },
+    {
+        "date": "14/09/25",
+        "time": "14:30",
+        "league": "Spain- Laliga",
+        "match": "FC St Pauli➖ Augsburg",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.70",
+        "status": "2:1â"
+    },
+    {
+        "date": "15/09/25",
+        "time": "18:00",
+        "league": "Sweden- Allsvanskan",
+        "match": "Aik➖Brommapojkama",
+        "prediction": "Home+Over 2.5",
+        "odds": "2.85",
+        "status": "2:1â"
+    },
+    {
+        "date": "15/09/25",
+        "time": "20:00",
+        "league": "Bosnia- Premier League",
+        "match": "FK Zeljeznicar➖Borac Banja Luka",
+        "prediction": "Home Win",
+        "odds": "2.70",
+        "status": "3:2â"
+    },
+    {
+        "date": "16/09/25",
+        "time": "17:45",
+        "league": "UEFA- Champions League",
+        "match": "Atletic Club➖Arsenal",
+        "prediction": "Away+Over 1.5",
+        "odds": "2.70",
+        "status": "0:2â"
+    },
+    {
+        "date": "16/09/25",
+        "time": "20:00",
+        "league": "UEFA- Champions League",
+        "match": "Real Madrid➖ Marsille",
+        "prediction": "Home+GG",
+        "odds": "2.80",
+        "status": "2:1â"
+    },
+    {
+        "date": "17/09/25",
+        "time": "17:45",
+        "league": "UEFA- Champions League",
+        "match": "Slavia Praque➖Bodo Glimt",
+        "prediction": "Over 3.5",
+        "odds": "3.10",
+        "status": "2:2â"
+    },
+    {
+        "date": "17/09/25",
+        "time": "20:00",
+        "league": "UEFA- Champions League",
+        "match": "Bayern➖ Chelsea",
+        "prediction": "Home+Over 2.5",
+        "odds": "2.50",
+        "status": "3:1â"
+    },
+    {
+        "date": "18/09/25",
+        "time": "17:45",
+        "league": "UEFA- Champions League",
+        "match": "Copenhagen➖Bayer Leverkusen",
+        "prediction": "Away/Draw+GG",
+        "odds": "2.60",
+        "status": "2:2â"
+    },
+    {
+        "date": "18/09/25",
+        "time": "14:00",
+        "league": "Egypt- Premier League",
+        "match": "Aswan➖ Le viena",
+        "prediction": "Draw",
+        "odds": "3.00",
+        "status": "0:0â"
+    },
+    {
+        "date": "20/09/25",
+        "time": "14:30",
+        "league": "Germany- Bundesliga",
+        "match": "Hoffenheim➖Bayern Munich",
+        "prediction": "Away+Over 3.5",
+        "odds": "2.40",
+        "status": "1:4â"
+    },
+    {
+        "date": "20/09/25",
+        "time": "15:15",
+        "league": "Spain- Laliga",
+        "match": "Real Madrid➖ Espanyol",
+        "prediction": "Home+Under 3.5",
+        "odds": "2.80",
+        "status": "2:0â"
+    },
+    {
+        "date": "21/09/25",
+        "time": "16:00",
+        "league": "Latvia- Virsliga",
+        "match": "FK Rigas Futbola➖BFC Daugavpils",
+        "prediction": "Home+GG",
+        "odds": "2.50",
+        "status": "5:1â"
+    },
+    {
+        "date": "21/09/25",
+        "time": "19:15",
+        "league": "Slovein-Prvaliga",
+        "match": "Primorje Ajdovscina➖ Celje",
+        "prediction": "Away+Over 3.5",
+        "odds": "2.70",
+        "status": "2:3â"
+    },
+    {
+        "date": "22/09/25",
+        "time": "20:15",
+        "league": "Portugal- Liga portugal",
+        "match": "Sporting➖Moreirense",
+        "prediction": "Home+Over 2.5",
+        "odds": "3.40",
+        "status": "3:0â"
+    },
+    {
+        "date": "22/09/25",
+        "time": "18:00",
+        "league": "Denmark-Superliga",
+        "match": "Randers FC➖ Nordsjealland",
+        "prediction": "Home Over 1.5",
+        "odds": "2.40",
+        "status": "3:0â"
+    },
+    {
+        "date": "23/09/25",
+        "time": "20:30",
+        "league": "Spain- Laliga",
+        "match": "Levante➖Real Madrid",
+        "prediction": "Away+GG",
+        "odds": "2.90",
+        "status": "1:4â"
+    },
+    {
+        "date": "23/09/25",
+        "time": "20:30",
+        "league": "Spain-Laliga",
+        "match": "Sevilla➖ Villarreal",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.40",
+        "status": "1:2â"
+    },
+    {
+        "date": "24/09/25",
+        "time": "15:00",
+        "league": "Turkiye- 1 lig",
+        "match": "Erzurumspor➖ Ankara Keciorenucu",
+        "prediction": "Home Win",
+        "odds": "2.30",
+        "status": "1:1❌"
+    },
+    {
+        "date": "24/09/25",
+        "time": "18:00",
+        "league": "Turkiye-1 lig",
+        "match": "Esenler erokspor➖ Istanbulspor",
+        "prediction": "Away Over 1.5",
+        "odds": "2.90",
+        "status": "4:0❌"
+    },
+    {
+        "date": "25/09/25",
+        "time": "20:30",
+        "league": "Spain- Laliga",
+        "match": "Real Oviedo ➖ Barcelona",
+        "prediction": "Away+Over 3.5",
+        "odds": "2.80",
+        "status": "1:3â"
+    },
+    {
+        "date": "25/09/25",
+        "time": "17:45",
+        "league": "UEFA- Europa League",
+        "match": "Lille➖SK Brann",
+        "prediction": "Home+GG",
+        "odds": "3.10",
+        "status": "2:1â"
+    },
+    {
+        "date": "26/09/25",
+        "time": "19:00",
+        "league": "Netherlands- Eredivisie",
+        "match": "Excelsior Rotterdam➖ PSV Eindhoven",
+        "prediction": "Away+GG",
+        "odds": "2.50",
+        "status": "1:2â"
+    },
+    {
+        "date": "26/09/25",
+        "time": "19:00",
+        "league": "Hungary- NB 1",
+        "match": "Paksi FC➖Puskas Akademia",
+        "prediction": "Home+GG",
+        "odds": "3.30",
+        "status": "3:2â"
+    },
+    {
+        "date": "27/09/25",
+        "time": "17:00",
+        "league": "Iceland- Besta Delid",
+        "match": "Afturelding➖ KA Akureyri",
+        "prediction": "Home Over 2.5",
+        "odds": "3.30",
+        "status": "3:2â"
+    },
+    {
+        "date": "27/09/25",
+        "time": "14:30",
+        "league": "Germany- Bundesliga",
+        "match": "Freiburg➖Hoffenheim",
+        "prediction": "Home/Draw+GG",
+        "odds": "4.20",
+        "status": "1:1â"
+    },
+    {
+        "date": "29/09/25",
+        "time": "18:00",
+        "league": "Denmark- Superliga",
+        "match": "Midtylland➖ Randers FC",
+        "prediction": "Home+GG",
+        "odds": "3.30",
+        "status": "2:1â"
+    },
+    {
+        "date": "29/09/25",
+        "time": "18:00",
+        "league": "Turkiye- Super Lig",
+        "match": "Beskitas Istanbul➖Kocaelispor",
+        "prediction": "Home+GG",
+        "odds": "3.40",
+        "status": "3:1â"
+    },
+    {
+        "date": "30/09/25",
+        "time": "17:45",
+        "league": "UEFA- Champions League",
+        "match": "Atalanta➖ Cercle Brugge",
+        "prediction": "Home Over 1.5",
+        "odds": "2.80",
+        "status": "2:1â"
+    },
+    {
+        "date": "30/09/25",
+        "time": "20:00",
+        "league": "UEFA- Champions League",
+        "match": "Atletico Madrid➖ Eintracht Frankfurt",
+        "prediction": "Home+GG",
+        "odds": "3.60",
+        "status": "5:1â"
+    },
+    {
+        "date": "01/10/25",
+        "time": "20:00",
+        "league": "UEFA- Champions League",
+        "match": "Bayer Leverkusen➖ PSV Eindhoven",
+        "prediction": "Home/Draw+GG",
+        "odds": "2.90",
+        "status": "1:1â"
+    },
+    {
+        "date": "01/10/25",
+        "time": "20:00",
+        "league": "UEFA- Champions League",
+        "match": "Barcelona➖ PSG",
+        "prediction": "Away Over 1.5",
+        "odds": "2.50",
+        "status": "1:2â"
+    },
+    {
+        "date": "03/10/25",
+        "time": "20:00",
+        "league": "England- Premier League",
+        "match": "Bournemouth➖ Fulham",
+        "prediction": "Home+Over 1.5",
+        "odds": "2.70",
+        "status": "3:1â"
+    },
+    {
+        "date": "03/10/25",
+        "time": "19:00",
+        "league": "Netherlands- Ereste Divisie",
+        "match": "Jong Az Alkmaar➖ ADO Den Haag",
+        "prediction": "Away+Over 3.5",
+        "odds": "2.80",
+        "status": "0:4â"
+    },
+    {
+        "date": "04/10/25",
+        "time": "19:45",
+        "league": "Italy- Serie A",
+        "match": "Atalanta➖ Como",
+        "prediction": "Home/Draw+GG",
+        "odds": "3.90",
+        "status": "1:1â"
+    },
+    {
+        "date": "04/10/25",
+        "time": "17:30",
+        "league": "Germany- Bundesliga",
+        "match": "Eintracht Frankfurt➖ Bayern Munich",
+        "prediction": "Away Over 2.5",
+        "odds": "2.30",
+        "status": "0:3â"
+    },
+    {
+        "date": "05/10/25",
+        "time": "15:15",
+        "league": "Spain- Laliga",
+        "match": "Sevilla➖ Barcelona",
+        "prediction": "Away+GG",
+        "odds": "2.80",
+        "status": "4:1❌"
+    },
+    {
+        "date": "05/10/25",
+        "time": "14:00",
+        "league": "England- Premier League",
+        "match": "Newcastle➖ Nottingham",
+        "prediction": "Home+1.5",
+        "odds": "2.40",
+        "status": "2:0â"
+    },
+    {
+        "date": "09/10/25",
+        "time": "19:45",
+        "league": "International- World Cup",
+        "match": "Czechia➖ Croatia",
+        "prediction": "Draw/Away+GG",
+        "odds": "2.50",
+        "status": "0:0❌"
+    },
+    {
+        "date": "09/10/25",
+        "time": "19:45",
+        "league": "International- World Cup",
+        "match": "Cyprus➖ Bosnia & Herzegovina",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.50",
+        "status": "2:2â"
+    },
+    {
+        "date": "11/10/25",
+        "time": "19:45",
+        "league": "International- World Cup",
+        "match": "Norway➖ Isreal",
+        "prediction": "Home Over 3.5",
+        "odds": "3.10",
+        "status": "5:0â"
+    },
+    {
+        "date": "11/10/25",
+        "time": "01:00",
+        "league": "Bolivia-  Copa Bolivia",
+        "match": "Guabira Montero➖ Club Aruro",
+        "prediction": "Home Team to score in both halves",
+        "odds": "2.70",
+        "status": "2:1â"
+    },
+    {
+        "date": "12/10/25",
+        "time": "15:15",
+        "league": "Spain- Laliga 2",
+        "match": "Sporting Gijon➖ Racing Santander",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.70",
+        "status": "2:1â"
+    },
+    {
+        "date": "12/10/25",
+        "time": "13:00",
+        "league": "Norway- 2nd Division",
+        "match": "Follo➖ Goroud IL",
+        "prediction": "Away+GG",
+        "odds": "2.80",
+        "status": "1:2â"
+    },
+    {
+        "date": "14/10/25",
+        "time": "19:45",
+        "league": "International- World CUP",
+        "match": "Italy➖ Isreal",
+        "prediction": "Home Over 2.5",
+        "odds": "2.90",
+        "status": "3:0â"
+    },
+    {
+        "date": "14/10/25",
+        "time": "19:45",
+        "league": "International- World Cup",
+        "match": "Turkey➖ Goegia",
+        "prediction": "Home Over 2.5",
+        "odds": "2.80",
+        "status": "4:1â"
+    },
+    {
+        "date": "16/10/25",
+        "time": "16:00",
+        "league": "Finland- Veikkausliga",
+        "match": "Tampereen Lives➖ Kuopion Palloseura",
+        "prediction": "Home/Draw+GG",
+        "odds": "3.30",
+        "status": "1:1â"
+    },
+    {
+        "date": "16/10/25",
+        "time": "17:30",
+        "league": "Denmark- 1 Division",
+        "match": "Esbjerg FB➖ Hobro IK",
+        "prediction": "Away/Draw+GG",
+        "odds": "2.80",
+        "status": "1:1â"
+    },
+    {
+        "date": "19/10/25",
+        "time": "16:15",
+        "league": "France - Ligue 1",
+        "match": "Lorient➖ Stade Brest",
+        "prediction": "Away Over 1.5",
+        "odds": "2.80",
+        "status": "3:3â"
+    },
+    {
+        "date": "19/10/25",
+        "time": "14:00",
+        "league": "France - Ligue 1",
+        "match": "FC Lens➖ FC Paris",
+        "prediction": "Home+GG",
+        "odds": "4.10",
+        "status": "2:1â"
+    },
+    {
+        "date": "21/10/25",
+        "time": "20:00",
+        "league": "Europe - Champions League",
+        "match": "PSV Eindhoven➖Napoli",
+        "prediction": "Home Over 1.5",
+        "odds": "2.70",
+        "status": "6:2â"
+    },
+    {
+        "date": "21/10/25",
+        "time": "20:00",
+        "league": "Europe - Champions League",
+        "match": "Bayer Leverkusen➖PSG",
+        "prediction": "Away+GG",
+        "odds": "3.10",
+        "status": "2:7â"
+    },
+    {
+        "date": "22/10/25",
+        "time": "20:00",
+        "league": "Europe - Champions League",
+        "match": "Eintracht Frankfurt➖ Liverpool",
+        "prediction": "Home Over 1.5",
+        "odds": "2.80",
+        "status": "1:5❌"
+    },
+    {
+        "date": "22/10/25",
+        "time": "17:45",
+        "league": "Europe -Champions League",
+        "match": "Galatasaray➖Bodo Glmit",
+        "prediction": "Home+GG",
+        "odds": "3.20",
+        "status": "3:1â"
+    },
+    {
+        "date": "23/10/25",
+        "time": "17:45",
+        "league": "International-Europa League",
+        "match": "Red Bull Salzburg➖Ferencvarosi",
+        "prediction": "Away Over 1.5",
+        "odds": "3.15",
+        "status": "2:3â"
+    },
+    {
+        "date": "23/10/25",
+        "time": "20:00",
+        "league": "Europa - Conference League",
+        "match": "Shamrock Rovers➖ Celje",
+        "prediction": "Away Over 1.5",
+        "odds": "2.80",
+        "status": "0:2â"
+    },
+    {
+        "date": "24/10/25",
+        "time": "20:00",
+        "league": "Spain- Laliga",
+        "match": "Real Sociedad ➖ Sevilla",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.90",
+        "status": "2:1â"
+    },
+    {
+        "date": "24/10/25",
+        "time": "20:00",
+        "league": "England- Premier League",
+        "match": "Leeds United➖ West Ham",
+        "prediction": "Home Over 1.5",
+        "odds": "2.70",
+        "status": "2:1â"
+    },
+    {
+        "date": "25/10/25",
+        "time": "14:30",
+        "league": "Germany- Bundesliga",
+        "match": "SG Hoffenheim➖FC Heidenheim 1846",
+        "prediction": "Home+GG",
+        "odds": "3.15",
+        "status": "3:1â"
+    },
+    {
+        "date": "25/10/25",
+        "time": "17:30",
+        "league": "England- Premier League",
+        "match": "Manchester United➖Brighton",
+        "prediction": "Away Over 1.5",
+        "odds": "2.70",
+        "status": "4:2â"
+    },
+    {
+        "date": "26/10/25",
+        "time": "20:00",
+        "league": "Spain- Laliga",
+        "match": "Valencia➖ Villareal",
+        "prediction": "Away Win",
+        "odds": "2.70",
+        "status": "0:2â"
+    },
+    {
+        "date": "26/10/25",
+        "time": "18:30",
+        "league": "Spain- Laliga",
+        "match": "Osasuna➖ Celta",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.80",
+        "status": "2:3â"
+    },
+    {
+        "date": "28/10/25",
+        "time": "18:45",
+        "league": "Netherlands- KNVB Beker",
+        "match": "Den Bosch➖ADO Den Haag",
+        "prediction": "Away Over 2.5",
+        "odds": "3.10",
+        "status": "3:3â"
+    },
+    {
+        "date": "28/10/25",
+        "time": "20:00",
+        "league": "Netherlands- KNVB Beker",
+        "match": "VV Capelle➖Roda JC Kerkrade",
+        "prediction": "Away+Over 3.5",
+        "odds": "2.40",
+        "status": "1:5â"
+    },
+    {
+        "date": "29/10/25",
+        "time": "21:05",
+        "league": "France- Ligue 1",
+        "match": "Paris➖Lyon",
+        "prediction": "Away Over 1.5",
+        "odds": "2.50",
+        "status": "3:3â"
+    },
+    {
+        "date": "29/10/25",
+        "time": "21:05",
+        "league": "France- Ligue",
+        "match": "Marsille➖Angers",
+        "prediction": "Over 3.5",
+        "odds": "3.10",
+        "status": "2:2â"
+    },
+    {
+        "date": "30/10/25",
+        "time": "18:45",
+        "league": "Netherlands- KNVB Beker",
+        "match": "Rignsburgse Boys➖NEC Nijmegen",
+        "prediction": "Away+GG",
+        "odds": "2.80",
+        "status": "2:3â"
+    },
+    {
+        "date": "30/10/25",
+        "time": "17:45",
+        "league": "Denmark- DBU Pokalen",
+        "match": "Mitylland➖Silkeborg IF",
+        "prediction": "Home Over 2.5",
+        "odds": "2.90",
+        "status": "4:0â"
+    },
+    {
+        "date": "31/10/25",
+        "time": "15:00",
+        "league": "England Amateur- U21 League",
+        "match": "Sheffield Wednesday U21➖Hull City U21",
+        "prediction": "Away+GG",
+        "odds": "3.10",
+        "status": "0:2❌"
+    },
+    {
+        "date": "31/10/25",
+        "time": "14:30",
+        "league": "England Amateur- U21 League",
+        "match": "Charlton Athletic U21➖ Queens Park U21",
+        "prediction": "Home+GG",
+        "odds": "2.30",
+        "status": "2:2❌"
+    },
+    {
+        "date": "01/11/25",
+        "time": "14:00",
+        "league": "Spain- Eliteserien",
+        "match": "Villarreal➖Rayo Vallecano",
+        "prediction": "Home+ Over 2.5",
+        "odds": "3.25",
+        "status": "4:0â"
+    },
+    {
+        "date": "01/11/25",
+        "time": "16:00",
+        "league": "England- Premie League",
+        "match": "Brighton➖Leeds",
+        "prediction": "Home+Over 2.5",
+        "odds": "3.10",
+        "status": "3:0â"
+    },
+    {
+        "date": "02/11/25",
+        "time": "22:30",
+        "league": "Brazil - Serie A",
+        "match": "EC Juventude RS➖Palmeiras SP",
+        "prediction": "Away+Over 1.5",
+        "odds": "2.90",
+        "status": "0:2â"
+    },
+    {
+        "date": "02/11/25",
+        "time": "14:30",
+        "league": "Norway- Eliteserien",
+        "match": "Stroemgodset IF➖ Viking IF",
+        "prediction": "Away+GG",
+        "odds": "2.70",
+        "status": "1:2â"
+    },
+    {
+        "date": "04/11/25",
+        "time": "21:00",
+        "league": "Europe- Champions League",
+        "match": "PSG➖ Bayern Munich",
+        "prediction": "Away Win",
+        "odds": "3.00",
+        "status": "1:2â"
+    },
+    {
+        "date": "04/11/25",
+        "time": "21:00",
+        "league": "Europe- Champions League",
+        "match": "Atletico Madrid➖ Union Saint Gilloise",
+        "prediction": "Home+GG",
+        "odds": "3.20",
+        "status": "3:1â"
+    },
+    {
+        "date": "05/11/25",
+        "time": "21:00",
+        "league": "Europe- Champions League",
+        "match": "Man City➖ Borussia Dortmund",
+        "prediction": "Home+GG",
+        "odds": "2.80",
+        "status": "4:1â"
+    },
+    {
+        "date": "05/11/25",
+        "time": "21:00",
+        "league": "Europe- Champions League",
+        "match": "Ajax➖ Galatasaray",
+        "prediction": "Away+Over 2.5",
+        "odds": "3.70",
+        "status": "0:3â"
+    },
+    {
+        "date": "06/11/25",
+        "time": "21:00",
+        "league": "UEFA- Europa League",
+        "match": "Ferencvarosi ➖Ludogorets",
+        "prediction": "Home+GG",
+        "odds": "3.20",
+        "status": "3:1â"
+    },
+    {
+        "date": "06/11/25",
+        "time": "21:00",
+        "league": "UEFA- Europa League",
+        "match": "Paok➖ Young Boys",
+        "prediction": "Over 3.5",
+        "odds": "3.20",
+        "status": "4:0â"
+    },
+    {
+        "date": "08/11/25",
+        "time": "20:30",
+        "league": "Switzerland- Super League",
+        "match": "Servette➖Thun",
+        "prediction": "Away Win",
+        "odds": "3.50",
+        "status": "0:1â"
+    },
+    {
+        "date": "08/11/25",
+        "time": "18:00",
+        "league": "Norway- Eliteserien",
+        "match": "Viking➖",
+        "prediction": "Home Over 2.5",
+        "odds": "2.70",
+        "status": "3:0â"
+    },
+    {
+        "date": "09/11/25",
+        "time": "20:45",
+        "league": "Spain - Laliga",
+        "match": "Celta ➖Barcelona",
+        "prediction": "Away+GG",
+        "odds": "2.90",
+        "status": "2:4â"
+    },
+    {
+        "date": "09/11/25",
+        "time": "16:45",
+        "league": "Netherlands- Eredivisie",
+        "match": "AZ Alkmaar➖ PSV Eindhoven",
+        "prediction": "Away+Over 3.5",
+        "odds": "3.20",
+        "status": "1:5â"
+    },
+    {
+        "date": "10/11/25",
+        "time": "21:00",
+        "league": "England - Leaague Two",
+        "match": "Cheltenham➖Notts County",
+        "prediction": "Home Win",
+        "odds": "4.10",
+        "status": "1:2❌"
+    },
+    {
+        "date": "10/11/25",
+        "time": "20:30",
+        "league": "Italy- serie C",
+        "match": "SC Salernitana➖Crotone",
+        "prediction": "Home/Draw+GG",
+        "odds": "2.40",
+        "status": "0:0❌"
+    },
+    {
+        "date": "13/11/25",
+        "time": "20:45",
+        "league": "International - World Cup",
+        "match": "France➖Ukrain",
+        "prediction": "Home Over 3.5",
+        "odds": "3.20",
+        "status": "4:0â"
+    },
+    {
+        "date": "13/11/25",
+        "time": "13:30",
+        "league": "International- Friendly",
+        "match": "Thailand➖Singapore",
+        "prediction": "Home+GG",
+        "odds": "3.00",
+        "status": "3:2â"
+    },
+    {
+        "date": "15/11/25",
+        "time": "20:00",
+        "league": "Bolivia- Copa Bolivia",
+        "match": "Oriente Petrolero➖Nacional Potosi",
+        "prediction": "Away Over 1.5",
+        "odds": "3.10",
+        "status": "1:1❌"
+    },
+    {
+        "date": "15/11/25",
+        "time": "23:00",
+        "league": "Bolivia- Copa Bolivia",
+        "match": "Always Ready➖San AntonioBulo",
+        "prediction": "Away Over 1.5",
+        "odds": "2.40",
+        "status": "2:2â"
+    },
+    {
+        "date": "18/11/25",
+        "time": "23:00",
+        "league": "Bolivia- Coppa Bolivia",
+        "match": "Nacional Potosi➖ Club Deportivo San Jose",
+        "prediction": "Home Over 2.5",
+        "odds": "3.30",
+        "status": "3:0â"
+    },
+    {
+        "date": "18/11/25",
+        "time": "23:30",
+        "league": "Bolivia- Copa Bolivia",
+        "match": "The Strongest➖Guabira Montero",
+        "prediction": "Home+GG",
+        "odds": "3.20",
+        "status": "2:1â"
+    },
+    {
+        "date": "20/11/25",
+        "time": "19:00",
+        "league": "Sweden- Supperttan",
+        "match": "Hammarby Talang FF➖ Orebro FK",
+        "prediction": "Home Win",
+        "odds": "2.30",
+        "status": "1:0â"
+    },
+    {
+        "date": "20/11/25",
+        "time": "19:00",
+        "league": "Sweden- Supperttan",
+        "match": "Norrby➖Utsiktens BK",
+        "prediction": "Home Win",
+        "odds": "2.70",
+        "status": "3:2â"
+    },
+    {
+        "date": "21/11/25",
+        "time": "18:00",
+        "league": "Poland- Ekistraklasa",
+        "match": "Bruk-Bet Termalica➖MKS Arka Gdynia",
+        "prediction": "Home Win",
+        "odds": "2.50",
+        "status": "2:0â"
+    },
+    {
+        "date": "21/11/25",
+        "time": "20:30",
+        "league": "Spain- Seguenda Divison",
+        "match": "Las Palmas➖Albacete Balompie",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.50",
+        "status": "2:1â"
+    },
+    {
+        "date": "22/11/25",
+        "time": "18:00",
+        "league": "Switzerland- Super League",
+        "match": "Luzern➖Servette",
+        "prediction": "Away Over 1.5",
+        "odds": "2.90",
+        "status": "2:2â"
+    },
+    {
+        "date": "22/11/25",
+        "time": "16:00",
+        "league": "England- Premier League",
+        "match": "Brighton➖ Brentford",
+        "prediction": "Home+Over 2.5",
+        "odds": "3.10",
+        "status": "2:1â"
+    },
+    {
+        "date": "23/11/25",
+        "time": "20:45",
+        "league": "France- Ligue 1",
+        "match": "Lille➖Paris",
+        "prediction": "Home+GG",
+        "odds": "3.25",
+        "status": "4:2â"
+    },
+    {
+        "date": "23/11/25",
+        "time": "18:00",
+        "league": "Turkiye- Super League",
+        "match": "Caykur Rizespor➖Fenerbahce",
+        "prediction": "Away+Over 2.5",
+        "odds": "3.10",
+        "status": "2:5â"
+    },
+    {
+        "date": "24/11/25",
+        "time": "21:00",
+        "league": "Spain- Laliga",
+        "match": "Espanyol➖Sevilla",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.95",
+        "status": "2:1â"
+    },
+    {
+        "date": "24/11/25",
+        "time": "20:45",
+        "league": "Italy- Serie A",
+        "match": "Sassuolo➖ Pisa",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.90",
+        "status": "2:2â"
+    },
+    {
+        "date": "25/11/25",
+        "time": "21:00",
+        "league": "Europa- Champions League",
+        "match": "Borussia Dortmund➖ Villarreal",
+        "prediction": "Home+Over 2.5",
+        "odds": "2.90",
+        "status": "4:0â"
+    },
+    {
+        "date": "25/11/25",
+        "time": "20:45",
+        "league": "England- ChampionShip",
+        "match": "Middlesbrough➖Coventry City",
+        "prediction": "Away+Over 1.5",
+        "odds": "3.10",
+        "status": "2:4â"
+    },
+    {
+        "date": "26/11/25",
+        "time": "21:00",
+        "league": "Europa- Champions League",
+        "match": "PSG➖ Tottenham",
+        "prediction": "Home+GG",
+        "odds": "3.20",
+        "status": "5:3â"
+    },
+    {
+        "date": "26/11/25",
+        "time": "21:00",
+        "league": "Europe- Champions League",
+        "match": "Liverpool➖PSV Eindhoven",
+        "prediction": "Away Over 1.5",
+        "odds": "3.70",
+        "status": "1:4â"
+    },
+    {
+        "date": "29/11/25",
+        "time": "15:30",
+        "league": "Germany- Bundesliga",
+        "match": "Hoffenheim➖ Augsburg",
+        "prediction": "Home+Over 2.5",
+        "odds": "3.30",
+        "status": "3:0â"
+    },
+    {
+        "date": "29/11/25",
+        "time": "16:30",
+        "league": "Portugal- Liga Portugal",
+        "match": "Casa Pia Lisbon➖ Alverca Futebol",
+        "prediction": "Home Over 1.5",
+        "odds": "3.10",
+        "status": "0:2❌"
+    },
+    {
+        "date": "30/11/25",
+        "time": "15:05",
+        "league": "England- Premier League",
+        "match": "West Ham➖ Liverpool",
+        "prediction": "Over 3.5",
+        "odds": "2.70",
+        "status": "0:2❌"
+    },
+    {
+        "date": "30/11/25",
+        "time": "15:30",
+        "league": "Germany- Bundesliga",
+        "match": "Hamburger➖ Stuttgart",
+        "prediction": "Away+Over 2.5",
+        "odds": "3.10",
+        "status": "2:1❌"
+    },
+    {
+        "date": "02/12/25",
+        "time": "03:00",
+        "league": "International- Central American Cup",
+        "match": "Xelaju MC ➖ LD Alajuelense",
+        "prediction": "Draw",
+        "odds": "3.00",
+        "status": "1:1â"
+    },
+    {
+        "date": "02/12/25",
+        "time": "18:30",
+        "league": "Spain Amateur- Tercera Division",
+        "match": "Bidezarra➖ CD Pamplona",
+        "prediction": "Draw",
+        "odds": "3.10",
+        "status": "0:1❌"
+    },
+    {
+        "date": "06/12/25",
+        "time": "17:00",
+        "league": "France- Ligue 1",
+        "match": "Nantes➖ Lens",
+        "prediction": "Away+GG",
+        "odds": "3.20",
+        "status": "1:2â"
+    },
+    {
+        "date": "06/12/25",
+        "time": "18:00",
+        "league": "Switzerland- Super League",
+        "match": "Thun➖ Luzern",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.70",
+        "status": "4:1â"
+    },
+    {
+        "date": "07/12/25",
+        "time": "14:00",
+        "league": "Denmark- Superliga",
+        "match": "Viborg FF➖Midtylland",
+        "prediction": "Over 3.5",
+        "odds": "2.80",
+        "status": "3:3â"
+    },
+    {
+        "date": "07/12/25",
+        "time": "16:30",
+        "league": "Portugal- Liga portugal",
+        "match": "Estoril Praia➖ Moreirense FC",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.70",
+        "status": "3:3â"
+    },
+    {
+        "date": "08/12/25",
+        "time": "21:00",
+        "league": "England- Premier League",
+        "match": "Wolverhampton➖Manchester United",
+        "prediction": "Away+Over 2.5",
+        "odds": "3.10",
+        "status": "1:4â"
+    },
+    {
+        "date": "08/12/25",
+        "time": "20:45",
+        "league": "Italy- Serie A",
+        "match": "Torino➖ AC Milian",
+        "prediction": "Away+Over 2.5",
+        "odds": "2.95",
+        "status": "2:3â"
+    },
+    {
+        "date": "09/12/25",
+        "time": "21:00",
+        "league": "England- League Two",
+        "match": "PSV Eindhoven➖Atletico Madrid",
+        "prediction": "Home win",
+        "odds": "3.10",
+        "status": "2:3â"
+    },
+    {
+        "date": "09/12/25",
+        "time": "20:45",
+        "league": "England- ChampionShip",
+        "match": "Charlton Athletic➖ Middlesbrough FC",
+        "prediction": "Away Win",
+        "odds": "2.50",
+        "status": "1:2â"
+    },
+    {
+        "date": "11/12/25",
+        "time": "18:45",
+        "league": "UEFA- Europa League",
+        "match": "Ferencvarosi➖Rangers",
+        "prediction": "Home+GG",
+        "odds": "3.50",
+        "status": "2:1â"
+    },
+    {
+        "date": "11/12/25",
+        "time": "18:45",
+        "league": "UEFA- Europa League",
+        "match": "Nice➖ Braga",
+        "prediction": "Away+Under 3.5",
+        "odds": "2.95",
+        "status": "0:1â"
+    },
+    {
+        "date": "12/12/25",
+        "time": "14:00",
+        "league": "Netherlands- Eerste Divisie",
+        "match": "Top Oss➖ADO DEN Haag",
+        "prediction": "Away Over 2.5",
+        "odds": "2.50",
+        "status": "3:4â"
+    },
+    {
+        "date": "12/12/25",
+        "time": "20:00",
+        "league": "Netherlands- Eerste Divisie",
+        "match": "De Graafschap➖ Roda JC",
+        "prediction": "Home+GG",
+        "odds": "2.95",
+        "status": "2:3❌"
+    },
+    {
+        "date": "13/12/25",
+        "time": "16:00",
+        "league": "England- ChampionShip",
+        "match": "Middlesbrough➖Queens Park",
+        "prediction": "Home+Over 2.5",
+        "odds": "3.30",
+        "status": "3:1â"
+    },
+    {
+        "date": "13/12/25",
+        "time": "20:00",
+        "league": "Netherlands- Eredivisie",
+        "match": "PSV Eindhoven➖ Heracles",
+        "prediction": "Home+GG",
+        "odds": "2.55",
+        "status": "4:3â"
+    },
+    {
+        "date": "14/12/25",
+        "time": "20:00",
+        "league": "Bolivia- Profesional Division",
+        "match": "Oriente Petrolero➖Club Bolivar",
+        "prediction": "Away Win",
+        "odds": "2.80",
+        "status": "1:3â"
+    },
+    {
+        "date": "14/12/25",
+        "time": "20:00",
+        "league": "Bolivia- Profesional Division",
+        "match": "lndependiente Petrolero➖Always Ready",
+        "prediction": "Away Win",
+        "odds": "2.85",
+        "status": "5:2❌"
+    },
+    {
+        "date": "15/12/25",
+        "time": "21:00",
+        "league": "Spain- Laliga",
+        "match": "Rayo Vallecano➖Real Betis",
+        "prediction": "Away Over 1.5",
+        "odds": "2.85",
+        "status": "0:0❌"
+    },
+    {
+        "date": "15/12/25",
+        "time": "20:45",
+        "league": "Italy- Serie A",
+        "match": "Roma➖Como 1907",
+        "prediction": "Home Over 1.5",
+        "odds": "2.80",
+        "status": "1:0❌"
+    },
+    {
+        "date": "17/12/25",
+        "time": "21:15",
+        "league": "England- EFL CUP",
+        "match": "Newcastle➖ Fulham",
+        "prediction": "Home+Over 2.5",
+        "odds": "2.30",
+        "status": "2:1â"
+    },
+    {
+        "date": "17/12/25",
+        "time": "21:00",
+        "league": "Portugal- Taca de portugal",
+        "match": "SC Feyenoord➖SC Heerenveen",
+        "prediction": "Away Over 1.5",
+        "odds": "3.50",
+        "status": "2:3â"
+    },
+    {
+        "date": "19/12/25",
+        "time": "23:55",
+        "league": "Bolivia - Copa LFPB",
+        "match": "Bolivar➖ Blooming",
+        "prediction": "Home Over 3.5",
+        "odds": "2.80",
+        "status": "5:0â"
+    },
+    {
+        "date": "19/12/25",
+        "time": "19:00",
+        "league": "Egypt - League Cup",
+        "match": "Ceramica➖ Al Ahly",
+        "prediction": "Away Win",
+        "odds": "2.90",
+        "status": "0:1â"
+    },
+    {
+        "date": "20/12/25",
+        "time": "21:00",
+        "league": "England - Premier League",
+        "match": "Leeds United➖Crystal Palace",
+        "prediction": "Home Over 1.5",
+        "odds": "3.10",
+        "status": "4:1â"
+    },
+    {
+        "date": "20/12/25",
+        "time": "16:00",
+        "league": "England -Premier League",
+        "match": "Wolverhampton➖Brentford",
+        "prediction": "Away+Over 1.5",
+        "odds": "2.70",
+        "status": "0:2â"
+    },
+    {
+        "date": "21/12/25",
+        "time": "14:00",
+        "league": "Spain -Laliga",
+        "match": "Girona➖ Atletico Madrid",
+        "prediction": "Away+Over 2.5",
+        "odds": "2.80",
+        "status": "0:3â"
+    },
+    {
+        "date": "21/12/25",
+        "time": "17:30",
+        "league": "England -Premier League",
+        "match": "Aston Villa➖Manchester United",
+        "prediction": "Home+GG",
+        "odds": "3.50",
+        "status": "2:1â"
+    },
+    {
+        "date": "22/12/25",
+        "time": "17:00",
+        "league": "Gambia-First Division",
+        "match": "Team Rhino FC➖Steve Biko",
+        "prediction": "Draw",
+        "odds": "3.33",
+        "status": "0:0â"
+    },
+    {
+        "date": "22/12/25",
+        "time": "N/A",
+        "league": "CAF -Africa Cup of Nations",
+        "match": "South Africa➖ Angola",
+        "prediction": "Home Win",
+        "odds": "N/A",
+        "status": "2:1â"
+    },
+    {
+        "date": "23/12/25",
+        "time": "21:45",
+        "league": "Spain- Laliga",
+        "match": "Victora Guimaraes➖ Sporting FC",
+        "prediction": "Away+GG",
+        "odds": "2.90",
+        "status": "1:4â"
+    },
+    {
+        "date": "23/12/25",
+        "time": "18:00",
+        "league": "Elbanian- Super League",
+        "match": "Teute Durres➖ Egnatia",
+        "prediction": "Draw",
+        "odds": "3.30",
+        "status": "0:1❌"
+    },
+    {
+        "date": "26/12/25",
+        "time": "13:30",
+        "league": "Belguim- Pro League",
+        "match": "Racing Genk➖Club Brugge",
+        "prediction": "Away+Over 2.5",
+        "odds": "3.15",
+        "status": "3:5â"
+    },
+    {
+        "date": "26/12/25",
+        "time": "18:30",
+        "league": "Italy- Serie A",
+        "match": "Wrexham➖ Sheffield United",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.60",
+        "status": "5:3â"
+    },
+    {
+        "date": "27/12/25",
+        "time": "15:00",
+        "league": "Italy- Series A",
+        "match": "Torino➖Cagliari",
+        "prediction": "Away Over 1.5",
+        "odds": "2.90",
+        "status": "1:2â"
+    },
+    {
+        "date": "27/12/25",
+        "time": "16:00",
+        "league": "England- Premier League",
+        "match": "Brentford➖Bournemouth",
+        "prediction": "Home+Over 1.5",
+        "odds": "2.80",
+        "status": "4:1â"
+    },
+    {
+        "date": "28/12/25",
+        "time": "20:45",
+        "league": "Italy- Serie A",
+        "match": "Atalanta➖Inter Milian",
+        "prediction": "Away+Over 1.5",
+        "odds": "2.90",
+        "status": "0:1❌"
+    },
+    {
+        "date": "28/12/25",
+        "time": "18:00",
+        "league": "Italy- Serie A",
+        "match": "Bologna➖Sassuolo",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.70",
+        "status": "1:1❌"
+    },
+    {
+        "date": "29/12/25",
+        "time": "20:45",
+        "league": "England- Championship",
+        "match": "Leicester City➖Derby County",
+        "prediction": "Home over 1.5",
+        "odds": "2.60",
+        "status": "2:1â"
+    },
+    {
+        "date": "29/12/25",
+        "time": "21:15",
+        "league": "England- Championship",
+        "match": "Birmingham City➖Southampton",
+        "prediction": "Away Over 1.5",
+        "odds": "2.80",
+        "status": "1:1❌"
+    },
+    {
+        "date": "30/12/25",
+        "time": "17:00",
+        "league": "International-AFCON",
+        "match": "Uganda➖Nigeria",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.90",
+        "status": "1:3â"
+    },
+    {
+        "date": "30/12/25",
+        "time": "20:45",
+        "league": "England- National League",
+        "match": "Tarmworth➖Halifax Town",
+        "prediction": "Away Over 1.5",
+        "odds": "2.80",
+        "status": "0:2â"
+    },
+    {
+        "date": "31/12/25",
+        "time": "18:45",
+        "league": "Isreal -Premier League",
+        "match": "FC Ashdod➖Maccabi Haifa",
+        "prediction": "Away+Over 2.5",
+        "odds": "2.90",
+        "status": "0:4â"
+    },
+    {
+        "date": "31/12/25",
+        "time": "15:30",
+        "league": "Wales- Cymur League",
+        "match": "Connah's Quay ➖The New Saint FC",
+        "prediction": "Over 3.5",
+        "odds": "3.30",
+        "status": "3:1â"
+    },
+    {
+        "date": "01/01/26",
+        "time": "18:30",
+        "league": "England- ChampionShip",
+        "match": "Sheffield➖Leceister City",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.55",
+        "status": "3:1â"
+    },
+    {
+        "date": "01/01/26",
+        "time": "16:00",
+        "league": "England- ChampionShip",
+        "match": "Watford➖ Birmingham City",
+        "prediction": "Home+Over 1.5",
+        "odds": "3.00",
+        "status": "3:0â"
+    },
+    {
+        "date": "03/01/26",
+        "time": "16:00",
+        "league": "England -Premier League",
+        "match": "Aston Villa➖Nottinham Forest",
+        "prediction": "Home+GG",
+        "odds": "4.10",
+        "status": "3:1â"
+    },
+    {
+        "date": "03/01/26",
+        "time": "15:30",
+        "league": "Spain- Laliga",
+        "match": "Elche➖Villareal",
+        "prediction": "Away+Over 2.5",
+        "odds": "3.60",
+        "status": "1:3â"
+    },
+    {
+        "date": "04/01/26",
+        "time": "16:00",
+        "league": "England -Championship",
+        "match": "Derby County➖Wrexham",
+        "prediction": "GG+Over 2.5",
+        "odds": "3.20",
+        "status": "1:2â"
+    },
+    {
+        "date": "04/01/26",
+        "time": "16:15",
+        "league": "Spain- Laliga",
+        "match": "Real Madrid➖Real Betis",
+        "prediction": "Home+GG",
+        "odds": "3.60",
+        "status": "5:1â"
+    },
+    {
+        "date": "06/01/26",
+        "time": "17:00",
+        "league": "International-AFCON",
+        "match": "Algeria➖Congo DR",
+        "prediction": "Draw",
+        "odds": "3.40",
+        "status": "0:0â"
+    },
+    {
+        "date": "06/01/26",
+        "time": "15:00",
+        "league": "International- Friendly",
+        "match": "Salzburg➖Bayern Munich",
+        "prediction": "Awag+Over 3.5",
+        "odds": "2.80",
+        "status": "0:5â"
+    },
+    {
+        "date": "07/01/26",
+        "time": "20:30",
+        "league": "England-Premier league",
+        "match": "Crystal Palace➖Aston Villa",
+        "prediction": "Away+0ver 1.5",
+        "odds": "3.30",
+        "status": "0:0❌"
+    },
+    {
+        "date": "07/01/26",
+        "time": "20:45",
+        "league": "Italy- Serie A",
+        "match": "Lazio➖ Fiorentina",
+        "prediction": "Home win",
+        "odds": "2.90",
+        "status": "2:2❌"
+    },
+    {
+        "date": "08/01/26",
+        "time": "18:30",
+        "league": "Saudi Arabia-Pro league",
+        "match": "Al Najma➖Al-Ittifaq",
+        "prediction": "Away+Over 1.5",
+        "odds": "2.70",
+        "status": "3:4â"
+    },
+    {
+        "date": "08/01/26",
+        "time": "17:30",
+        "league": "Qatar- Stars League",
+        "match": "Qatar SC➖ Al Sadd",
+        "prediction": "Away Over 2.5",
+        "odds": "2.70",
+        "status": "2:3â"
+    },
+    {
+        "date": "10/01/26",
+        "time": "21:00",
+        "league": "Portugal- league Cup",
+        "match": "Victoria Guimaraes➖Braga",
+        "prediction": "GG",
+        "odds": "2.70",
+        "status": "2:1â"
+    },
+    {
+        "date": "10/01/26",
+        "time": "15:30",
+        "league": "Germany- Bundesliga",
+        "match": "Union Berlin➖Mainz",
+        "prediction": "Home Over 1.5",
+        "odds": "2.80",
+        "status": "2:2â"
+    },
+    {
+        "date": "11/01/26",
+        "time": "15:00",
+        "league": "Italy- Serie A",
+        "match": "Fiorentina➖AC Milian",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.70",
+        "status": "1:1❌"
+    },
+    {
+        "date": "11/01/26",
+        "time": "12:15",
+        "league": "Netherlands- Eredivisie",
+        "match": "Heerenveen➖Feyenoord",
+        "prediction": "Home Over 1.5",
+        "odds": "2.60",
+        "status": "2:2â"
+    },
+    {
+        "date": "12/01/26",
+        "time": "18:30",
+        "league": "Italy- Serie A",
+        "match": "Al-Ittifaq➖Al-Khaleej Club",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.75",
+        "status": "1:2â"
+    },
+    {
+        "date": "12/01/26",
+        "time": "21:00",
+        "league": "Spain- Laliga",
+        "match": "Sevilla ➖Celta",
+        "prediction": "Away win",
+        "odds": "2.80",
+        "status": "0:1â"
+    },
+    {
+        "date": "13/01/26",
+        "time": "18:30",
+        "league": "Israel- State Cup",
+        "match": "Hapoel Petah Tikva➖Maccabi Bney Rein",
+        "prediction": "Home+Over 2.5",
+        "odds": "2.55",
+        "status": "1:2❌"
+    },
+    {
+        "date": "13/01/26",
+        "time": "20:30",
+        "league": "Spain- Laliga",
+        "match": "Royal Charleroi ➖Club Brugge",
+        "prediction": "Draw/Away+GG",
+        "odds": "2.80",
+        "status": "2:0❌"
+    },
+    {
+        "date": "19/01/26",
+        "time": "16:45",
+        "league": "United Arab",
+        "match": "Shabab Al hli➖Dibba Fujariah",
+        "prediction": "Home over 2.5",
+        "odds": "2.70",
+        "status": "7:0â"
+    },
+    {
+        "date": "19/01/26",
+        "time": "21:15",
+        "league": "Portugal-Liga Portugal",
+        "match": "Estrela Amadora➖Estoril Praia",
+        "prediction": "Away Over 1.5",
+        "odds": "2.80",
+        "status": "0:5â"
+    },
+    {
+        "date": "20/01/26",
+        "time": "21:00",
+        "league": "England- Championship",
+        "match": "Wrexham➖ Leicester City",
+        "prediction": "Home/Draw+GG",
+        "odds": "2.50",
+        "status": "1:1â"
+    },
+    {
+        "date": "20/01/26",
+        "time": "21:00",
+        "league": "International-Champions League",
+        "match": "Real Madrid➖Monaco",
+        "prediction": "Home+GG",
+        "odds": "3.10",
+        "status": "6:1â"
+    },
+    {
+        "date": "21/01/26",
+        "time": "21:00",
+        "league": "Europe- Champions League",
+        "match": "Slavia praque➖ Barcelona",
+        "prediction": "Away+GG",
+        "odds": "2.85",
+        "status": "2:4â"
+    },
+    {
+        "date": "21/01/26",
+        "time": "21:00",
+        "league": "Europe- Champions League",
+        "match": "Marsille➖ Liverpool",
+        "prediction": "Away+Over 2.5",
+        "odds": "3.20",
+        "status": "0:3â"
+    },
+    {
+        "date": "22/01/26",
+        "time": "21:00",
+        "league": "Europe- Champions League",
+        "match": "RC Celta➖ Lille",
+        "prediction": "Home Over 1.5",
+        "odds": "2.75",
+        "status": "2:1â"
+    },
+    {
+        "date": "22/01/26",
+        "time": "21:00",
+        "league": "Europe- Europa League",
+        "match": "Utrecht➖ Racing Genk",
+        "prediction": "Away",
+        "odds": "2.90",
+        "status": "0:2â"
+    },
+    {
+        "date": "24/01/26",
+        "time": "15:30",
+        "league": "England- Championship",
+        "match": "Mainz➖ Wolfsburg",
+        "prediction": "Home Over 1.5",
+        "odds": "3.00",
+        "status": "3:1â"
+    },
+    {
+        "date": "24/01/26",
+        "time": "21:05",
+        "league": "France- Ligue 1",
+        "match": "Marsile➖ Lens",
+        "prediction": "Home+GG",
+        "odds": "2.90",
+        "status": "3:1â"
+    },
+    {
+        "date": "25/01/26",
+        "time": "15:00",
+        "league": "England- Premier League",
+        "match": "Newcastle➖ Aston Villa",
+        "prediction": "Away win",
+        "odds": "2.70",
+        "status": "0:2â"
+    },
+    {
+        "date": "25/01/26",
+        "time": "18:30",
+        "league": "Spain- Laliga",
+        "match": "Real. Sociedad ➖ Celta",
+        "prediction": "Home+GG",
+        "odds": "4.70",
+        "status": "3.1â"
+    },
+    {
+        "date": "27/01/26",
+        "time": "21:00",
+        "league": "Italy- Coppa Italian",
+        "match": "Fiorentina➖ Como 1907",
+        "prediction": "Away Over 1.5",
+        "odds": "2.75",
+        "status": "1:3â"
+    },
+    {
+        "date": "27/01/26",
+        "time": "20:30",
+        "league": "Germany- Bundesliga",
+        "match": "Werder Bremen➖ Hoffenheim",
+        "prediction": "Away Win",
+        "odds": "2.70",
+        "status": "0:2â"
+    },
+    {
+        "date": "28/01/26",
+        "time": "21:00",
+        "league": "Europe- Champions League",
+        "match": "Barcelona➖ Copenhagen",
+        "prediction": "Home+GG",
+        "odds": "2.65",
+        "status": "4:1â"
+    },
+    {
+        "date": "28/01/26",
+        "time": "21:00",
+        "league": "Europe- Champions League",
+        "match": "Liverpool➖ Qarabag",
+        "prediction": "Home+Over 3.5",
+        "odds": "2.90",
+        "status": "6:0â"
+    },
+    {
+        "date": "29/01/26",
+        "time": "21:00",
+        "league": "Europe- Europa League",
+        "match": "Ludogorets➖ Nice",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.65",
+        "status": "1:0❌"
+    },
+    {
+        "date": "29/01/26",
+        "time": "21:00",
+        "league": "Saudi- Pro League",
+        "match": "Qadsiah➖ Al Hilal",
+        "prediction": "Home Over 1.5",
+        "odds": "2.90",
+        "status": "2:2â"
+    },
+    {
+        "date": "31/01/26",
+        "time": "15:30",
+        "league": "England- Premier League",
+        "match": "Hoffenheim➖ Union Berlin",
+        "prediction": "Home+Over 2.5",
+        "odds": "3.10",
+        "status": "3:1â"
+    },
+    {
+        "date": "31/01/26",
+        "time": "16:00",
+        "league": "England- Premier League",
+        "match": "Wolverhampton➖ Bournemouth",
+        "prediction": "Away Over 1.5",
+        "odds": "2.60",
+        "status": "0:2â"
+    },
+    {
+        "date": "01/02/26",
+        "time": "15:00",
+        "league": "Italy-  Serie A",
+        "match": "Como ➖Atalanta",
+        "prediction": "Home Over 1.5",
+        "odds": "3.10",
+        "status": "0:0❌"
+    },
+    {
+        "date": "01/02/26",
+        "time": "15:00",
+        "league": "France- Ligue 1",
+        "match": "Lyon ➖ Lille",
+        "prediction": "Home Win",
+        "odds": "2.60",
+        "status": "1:0â"
+    },
+    {
+        "date": "05/02/26",
+        "time": "17:00",
+        "league": "Bahrain-  Bahrain Cup",
+        "match": "Aali ➖Al-Najma Manama",
+        "prediction": "Home Win",
+        "odds": "2.70",
+        "status": "1:0â"
+    },
+    {
+        "date": "05/02/26",
+        "time": "13:30",
+        "league": "Egypt- 2 Division A",
+        "match": "Tanta➖ El Sakka El Hadid",
+        "prediction": "GG",
+        "odds": "2.50",
+        "status": "1:3â"
+    },
+    {
+        "date": "06/02/26",
+        "time": "21:00",
+        "league": "England- Premier League",
+        "match": "Leeds United➖ Nottingham Forest",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.75",
+        "status": "3:1â"
+    },
+    {
+        "date": "06/02/26",
+        "time": "21:00",
+        "league": "Spain- Laliga",
+        "match": "Celta➖ Osasuna",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.70",
+        "status": "1:2â"
+    },
+    {
+        "date": "07/02/26",
+        "time": "17:00",
+        "league": "France- Ligue 1",
+        "match": "RC Lens➖ Stade Rennias",
+        "prediction": "Home+GG",
+        "odds": "3.25",
+        "status": "3:1â"
+    },
+    {
+        "date": "07/02/26",
+        "time": "16:00",
+        "league": "England- Premier League",
+        "match": "Wolverhampton➖Chelsea",
+        "prediction": "Away+Over 2.5",
+        "odds": "2.80",
+        "status": "1:3â"
+    },
+    {
+        "date": "08/02/26",
+        "time": "15:00",
+        "league": "Italy- Serie A",
+        "match": "Lecce➖ Udinese",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.65",
+        "status": "2:1â"
+    },
+    {
+        "date": "08/02/26",
+        "time": "17:30",
+        "league": "Germany- Bundesliga",
+        "match": "Bayern Munich➖Hoffenheim",
+        "prediction": "Home+GG",
+        "odds": "2.90",
+        "status": "4:1â"
+    },
+    {
+        "date": "09/02/26",
+        "time": "18:30",
+        "league": "Italy- Serie A",
+        "match": "Atalanta➖ Cremonense",
+        "prediction": "Home+Over 2.5",
+        "odds": "3.00",
+        "status": "2:1â"
+    },
+    {
+        "date": "09/02/26",
+        "time": "21:00",
+        "league": "Spain- Laliga",
+        "match": "Villareal➖ RSD Espanyol",
+        "prediction": "Home+GG",
+        "odds": "3.20",
+        "status": "4:1â"
+    },
+    {
+        "date": "10/02/26",
+        "time": "20:30",
+        "league": "Switzerland-  Super League",
+        "match": "Luzern ➖Grasshopper",
+        "prediction": "Home+GG",
+        "odds": "3.10",
+        "status": "4:3â"
+    },
+    {
+        "date": "10/02/26",
+        "time": "20:30",
+        "league": "England- Premier League",
+        "match": "Everton ➖ Bournemouth",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.60",
+        "status": "1:2â"
+    },
+    {
+        "date": "11/02/26",
+        "time": "20:30",
+        "league": "England-  Premie League",
+        "match": "Aston Villa ➖Brighton",
+        "prediction": "Home Win",
+        "odds": "2.70",
+        "status": "1:0â"
+    },
+    {
+        "date": "11/02/26",
+        "time": "13:30",
+        "league": "Switzerland- Super League",
+        "match": "St Gallen➖Grass hopper",
+        "prediction": "Hone+GG",
+        "odds": "3.30",
+        "status": "2:1â"
+    },
+    {
+        "date": "12/02/26",
+        "time": "20:30",
+        "league": "Switzerland-  Super League",
+        "match": "Thun ➖Lausanne Sport",
+        "prediction": "Home+Over 2.5",
+        "odds": "2.70",
+        "status": "5:1â"
+    },
+    {
+        "date": "12/02/26",
+        "time": "20:30",
+        "league": "Switzerland-  Super League",
+        "match": "FC Sion➖ FC Basel",
+        "prediction": "Home Over 1.5",
+        "odds": "2.50",
+        "status": "2:0â"
+    },
+    {
+        "date": "14/02/26",
+        "time": "18:30",
+        "league": "Spain-  Laliga",
+        "match": "Sevilla ➖Alaves",
+        "prediction": "GG",
+        "odds": "2.40",
+        "status": "1:1â"
+    },
+    {
+        "date": "14/02/26",
+        "time": "20:45",
+        "league": "Italy-  Serie A",
+        "match": "Inter Milan➖ Juventus",
+        "prediction": "Home Over 1.5",
+        "odds": "2.50",
+        "status": "3:2â"
+    },
+    {
+        "date": "15/02/26",
+        "time": "14:30",
+        "league": "Netherlands- Eredivisie",
+        "match": "Heerenveen➖ PEC Zwolle",
+        "prediction": "Home+GG",
+        "odds": "3.40",
+        "status": "4:2â"
+    },
+    {
+        "date": "15/02/26",
+        "time": "16:30",
+        "league": "Switzerland-  Super League",
+        "match": "Lausanne Sport ➖ Servette Geneva",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.50",
+        "status": "3:3â"
+    },
+    {
+        "date": "16/02/26",
+        "time": "17:00",
+        "league": "AFC-League Elite",
+        "match": "Al-Ahli➖ Shabab Al Ahli",
+        "prediction": "Home+GG",
+        "odds": "2.90",
+        "status": "4:3â"
+    },
+    {
+        "date": "16/02/26",
+        "time": "21:00",
+        "league": "England-  Championship",
+        "match": "Coventry ➖ Middlesbrough",
+        "prediction": "Home Over 1.5",
+        "odds": "2.50",
+        "status": "3:1â"
+    },
+    {
+        "date": "17/02/26",
+        "time": "21:00",
+        "league": "Europe-Champions League",
+        "match": "Benfica➖ Real Madrid",
+        "prediction": "Away win",
+        "odds": "2.40",
+        "status": "0:1â"
+    },
+    {
+        "date": "17/02/26",
+        "time": "17:00",
+        "league": "AFC-  Champions League 2",
+        "match": "Al Wasl FC➖ Al Zawraa",
+        "prediction": "Away Over 1.5",
+        "odds": "4.50",
+        "status": "3:2â"
+    },
+    {
+        "date": "18/02/26",
+        "time": "21:00",
+        "league": "Europe-Champions League",
+        "match": "Bodo Glmit➖ Inter Milan",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.40",
+        "status": "3:1â"
+    },
+    {
+        "date": "18/02/26",
+        "time": "20:45",
+        "league": "Italy-  Serie A",
+        "match": "AC Milan➖ Como 1907",
+        "prediction": "Home Over 1.5",
+        "odds": "2.80",
+        "status": "1:1❌"
+    },
+    {
+        "date": "19/02/26",
+        "time": "21:00",
+        "league": "UEFA- Europa League",
+        "match": "Celtic➖ Stuttgart",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.60",
+        "status": "1:4â"
+    },
+    {
+        "date": "19/02/26",
+        "time": "18:45",
+        "league": "UEFA- Europa League",
+        "match": "GNK Dinamo Zagreb➖ Genk",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.50",
+        "status": "1:3â"
+    },
+    {
+        "date": "21/02/26",
+        "time": "18:45",
+        "league": "Netherlands - Eredivisie",
+        "match": "PSV Eindhoven➖ Heerenveen",
+        "prediction": "Home+GG",
+        "odds": "3.30",
+        "status": "3:1â"
+    },
+    {
+        "date": "21/02/26",
+        "time": "14:00",
+        "league": "Spain- Laliga",
+        "match": "Real Sociedad➖ Real Oviedo",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.80",
+        "status": "3:3â"
+    },
+    {
+        "date": "22/02/26",
+        "time": "19:30",
+        "league": "Qatar - Stars League",
+        "match": "Al Wakrah SC➖ Al Sadd",
+        "prediction": "Away+GG",
+        "odds": "2.90",
+        "status": "1:3â"
+    },
+    {
+        "date": "22/02/26",
+        "time": "18:00",
+        "league": "Turkey- Super Lig",
+        "match": "Besiktas ➖ Goztepe Izmir",
+        "prediction": "Home+Over 1.5",
+        "odds": "2.75",
+        "status": "4:0â"
+    },
+    {
+        "date": "23/02/26",
+        "time": "18:00",
+        "league": "Turkiye - Super Lig",
+        "match": "Fenerbahce➖ Kasimpasa Istanbul",
+        "prediction": "Home+GG",
+        "odds": "3.10",
+        "status": "1:1❌"
+    },
+    {
+        "date": "23/02/26",
+        "time": "21:00",
+        "league": "England- Premier League",
+        "match": "Everton ➖ Manchester United",
+        "prediction": "Draw/Away+GG",
+        "odds": "2.40",
+        "status": "0:1❌"
+    },
+    {
+        "date": "24/02/26",
+        "time": "18:45",
+        "league": "UEFA - Champions league",
+        "match": "Atletic Madrid➖ Brugge",
+        "prediction": "Home Over 2.5",
+        "odds": "2.60",
+        "status": "4:1â"
+    },
+    {
+        "date": "24/02/26",
+        "time": "21:00",
+        "league": "England- Championship",
+        "match": "Southampton ➖ Queens Park",
+        "prediction": "Home+Over 2.5",
+        "odds": "2.40",
+        "status": "5:0â"
+    },
+    {
+        "date": "25/02/26",
+        "time": "23:30",
+        "league": "Brazil - Serie A",
+        "match": "Coritiba FC➖ Seo Paulo FC",
+        "prediction": "Away Win",
+        "odds": "2.80",
+        "status": "0:1â"
+    },
+    {
+        "date": "25/02/26",
+        "time": "19:00",
+        "league": "Switzerland- Super League",
+        "match": "Winterthur ➖FC Thun",
+        "prediction": "Away+Over 2.5",
+        "odds": "2.80",
+        "status": "0:3â"
+    },
+    {
+        "date": "26/02/26",
+        "time": "18:45",
+        "league": "Europe - Conference League",
+        "match": "NK Celje➖ FK Drita",
+        "prediction": "Home Over 2.5",
+        "odds": "2.50",
+        "status": "3:2â"
+    },
+    {
+        "date": "26/02/26",
+        "time": "21:00",
+        "league": "UEFA- Europa  League",
+        "match": "Racing Genk ➖Dinamo Zagreb",
+        "prediction": "Over 3.5",
+        "odds": "2.95",
+        "status": "3:3â"
+    },
+    {
+        "date": "28/02/26",
+        "time": "13:30",
+        "league": "England - Championship",
+        "match": "Leceister City➖ Norwich",
+        "prediction": "Away Over 1.5",
+        "odds": "2.50",
+        "status": "0:2â"
+    },
+    {
+        "date": "28/02/26",
+        "time": "16:00",
+        "league": "England- Premier League",
+        "match": "Liverpool ➖West Ham",
+        "prediction": "Home+GG",
+        "odds": "2.90",
+        "status": "5:2â"
+    },
+    {
+        "date": "01/03/26",
+        "time": "16:15",
+        "league": "Spain - Laliga Hypermotion",
+        "match": "Sporting Gijon➖ CD Leganes",
+        "prediction": "GG",
+        "odds": "2.50",
+        "status": "Void🤝"
+    },
+    {
+        "date": "01/03/26",
+        "time": "17:30",
+        "league": "Slovenia- Prvaliga",
+        "match": "Bravo Ljubijana ➖Celje",
+        "prediction": "Away+GG",
+        "odds": "2.95",
+        "status": "1:0❌"
+    },
+    {
+        "date": "02/03/26",
+        "time": "20:45",
+        "league": "Italy- Serie A",
+        "match": "Udinese➖ Fiorentina",
+        "prediction": "Home Over 1.5",
+        "odds": "3.10",
+        "status": "3:0â"
+    },
+    {
+        "date": "02/03/26",
+        "time": "21:15",
+        "league": "Portugal- Primera Liga",
+        "match": "Gil Vicente➖Benfica",
+        "prediction": "Away+GG",
+        "odds": "3.35",
+        "status": "1:2â"
+    },
+    {
+        "date": "03/03/26",
+        "time": "20:00",
+        "league": "Netherlands- Eredivisie",
+        "match": "NEC Nijmegen➖PSV Eindhoven",
+        "prediction": "Over 3.5",
+        "odds": "3.10",
+        "status": "3:2â"
+    },
+    {
+        "date": "03/03/26",
+        "time": "21:00",
+        "league": "France- Ligue 1",
+        "match": "RC Strasbourg➖Stade Reims",
+        "prediction": "Home+Over 2.5",
+        "odds": "3.35",
+        "status": "2:1â"
+    },
+    {
+        "date": "04/03/26",
+        "time": "21:00",
+        "league": "Scotland- Premiership",
+        "match": "Aberden➖Celtic",
+        "prediction": "Away+GG",
+        "odds": "3.10",
+        "status": "1:2â"
+    },
+    {
+        "date": "04/03/26",
+        "time": "21:00",
+        "league": "Italy- CUP",
+        "match": "Lazio➖ Atalanta",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.85",
+        "status": "2:2â"
+    },
+    {
+        "date": "05/03/26",
+        "time": "19:00",
+        "league": "Norway- SAS CUP",
+        "match": "Mold➖Bodo Glmit",
+        "prediction": "Away+GG",
+        "odds": "2.95",
+        "status": "1:2â"
+    },
+    {
+        "date": "05/03/26",
+        "time": "21:10",
+        "league": "France- Coupe de france",
+        "match": "Lyon➖Lens",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.35",
+        "status": "2:2â"
+    },
+    {
+        "date": "07/03/26",
+        "time": "21:00",
+        "league": "Spain- Laliga",
+        "match": "Athletico Bilbao➖ Bercelona",
+        "prediction": "Away+GG",
+        "odds": "3.10",
+        "status": "0:1❌"
+    },
+    {
+        "date": "07/03/26",
+        "time": "20:00",
+        "league": "Netherlands - Eredivisie",
+        "match": "PSV Eindhoven➖AZ Alkmaar",
+        "prediction": "Over 3.5",
+        "odds": "2.35",
+        "status": "2:1❌"
+    },
+    {
+        "date": "08/03/26",
+        "time": "20:00",
+        "league": "Netherlands- Eredivisie",
+        "match": "Nijmegen➖Volendem",
+        "prediction": "Home+Over 2.5",
+        "odds": "2.80",
+        "status": "3:0â"
+    },
+    {
+        "date": "08/03/26",
+        "time": "16:30",
+        "league": "Switzerland - Super League",
+        "match": "Young Boys➖FC Thun",
+        "prediction": "Away Over 1.5",
+        "odds": "2.35",
+        "status": "1:2â"
+    },
+    {
+        "date": "09/03/26",
+        "time": "18:00",
+        "league": "Turkiye- Super lig",
+        "match": "Kayerispor➖ Trabzonspor",
+        "prediction": "Away+Over 1.5",
+        "odds": "2.80",
+        "status": "1:3â"
+    },
+    {
+        "date": "09/03/26",
+        "time": "20:30",
+        "league": "Egypt - Premier League",
+        "match": "National Bank of Egypt➖ Pyramids",
+        "prediction": "Away+Under 3.5",
+        "odds": "2.40",
+        "status": "0:1â"
+    },
+    {
+        "date": "10/03/26",
+        "time": "21:00",
+        "league": "UEFA- Champions league",
+        "match": "Atletic Madrid➖ Tottenham",
+        "prediction": "Over 3.5",
+        "odds": "2.75",
+        "status": "5:2â"
+    },
+    {
+        "date": "10/03/26",
+        "time": "21:00",
+        "league": "UEFA - Champions League",
+        "match": "Atalanta➖ Bayern Munich",
+        "prediction": "Away+Over 3.5",
+        "odds": "3.25",
+        "status": "1:6â"
+    },
+    {
+        "date": "11/03/26",
+        "time": "18:45",
+        "league": "UEFA- Champions league",
+        "match": "Bayer Leverkusen➖ Arsenal",
+        "prediction": "Draw/Away+GG",
+        "odds": "2.35",
+        "status": "1:1â"
+    },
+    {
+        "date": "11/03/26",
+        "time": "21:00",
+        "league": "UEFA - Champions League",
+        "match": "Bodo Glmit➖ Sporting",
+        "prediction": "Home Over 1.5",
+        "odds": "2.50",
+        "status": "3:0â"
+    },
+    {
+        "date": "12/03/26",
+        "time": "21:00",
+        "league": "UEFA- Europa league",
+        "match": "Celta➖ Lyon",
+        "prediction": "Home Over 1.5",
+        "odds": "2.35",
+        "status": "1:1❌"
+    },
+    {
+        "date": "12/03/26",
+        "time": "21:00",
+        "league": "UEFA - Europa League",
+        "match": "Genk➖ Freiburg",
+        "prediction": "Home Over 1.5",
+        "odds": "2.50",
+        "status": "1:0❌"
+    },
+    {
+        "date": "14/03/26",
+        "time": "15:30",
+        "league": "Germany- Bundesliga",
+        "match": "Bayer Leverkusen➖ Bayern Munich",
+        "prediction": "Away+GG",
+        "odds": "2.50",
+        "status": "1:1❌"
+    },
+    {
+        "date": "14/03/26",
+        "time": "18:45",
+        "league": "Netherlands - Eredivisie",
+        "match": "PSV➖ Nijmegen",
+        "prediction": "Home+GG",
+        "odds": "2.60",
+        "status": "2:3❌"
+    },
+    {
+        "date": "15/03/26",
+        "time": "19:30",
+        "league": "Romania- Superliga",
+        "match": "Fotbal Club FCSB➖ Metaloglobus",
+        "prediction": "Home+Over 3.5",
+        "odds": "2.40",
+        "status": "0:0❌"
+    },
+    {
+        "date": "15/03/26",
+        "time": "16:15",
+        "league": "Spain - Laliga",
+        "match": "Barcelona➖ Sevilla",
+        "prediction": "Home+Over 3.5",
+        "odds": "2.60",
+        "status": "5:2â"
+    },
+    {
+        "date": "17/03/26",
+        "time": "19:30",
+        "league": "Qatar- Stars League",
+        "match": "Al Arabi➖ Al Sadd",
+        "prediction": "Over 3.5",
+        "odds": "2.40",
+        "status": "2:1❌"
+    },
+    {
+        "date": "17/03/26",
+        "time": "18:00",
+        "league": "Turkey - Super Lig",
+        "match": "Fenerbahce➖ Gaziantep",
+        "prediction": "Home+Over 3.5",
+        "odds": "2.80",
+        "status": "4:1â"
+    },
+    {
+        "date": "18/03/26",
+        "time": "21:00",
+        "league": "UEFA- Champions League",
+        "match": "Bayern➖ Atalanta",
+        "prediction": "Home+GG",
+        "odds": "2.75",
+        "status": "4:1â"
+    },
+    {
+        "date": "18/03/26",
+        "time": "18:45",
+        "league": "UEFA - Champions league",
+        "match": "Barcelona➖ Newcastle",
+        "prediction": "Home+GG",
+        "odds": "2.80",
+        "status": "7:2â"
+    },
+    {
+        "date": "19/03/26",
+        "time": "23:00",
+        "league": "Brazil- Serie A",
+        "match": "Gremio FB Porto➖ EC Vitoria",
+        "prediction": "Home/Draw+GG",
+        "odds": "2.75",
+        "status": "Pending"
+    },
+    {
+        "date": "19/03/26",
+        "time": "18:00",
+        "league": "Turkey - Super Lig",
+        "match": "Basiktas➖ Kasimpesa",
+        "prediction": "Home+GG",
+        "odds": "2.80",
+        "status": "Pending"
+    }
+]
