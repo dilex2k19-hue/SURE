@@ -6,7 +6,7 @@
         "match": "Zoman FC➖ FC San Pedro",
         "prediction": "Draw",
         "odds": "3.55",
-        "status": "Pending"
+        "status": "1:2❌"
     },
     {
         "date": "23/03/26",
@@ -15,6 +15,24 @@
         "match": "Union San Felipe➖ San Marcos de Arica",
         "prediction": "Draw",
         "odds": "3.20",
+        "status": "1:1â"
+    },
+    {
+        "date": "23/03/26",
+        "time": "15:30",
+        "league": "Isreal - National Leagur",
+        "match": "Hapoel Kfar➖ Hapoel Kfar Shalem",
+        "prediction": "Draw/Away+GG",
+        "odds": "2.65",
+        "status": "Pending"
+    },
+    {
+        "date": "23/03/26",
+        "time": "15:30",
+        "league": "Isreal - National League",
+        "match": "FC Kafr Qasim➖ Maccabi Herzliya",
+        "prediction": "Draw/Away+GG",
+        "odds": "2.85",
         "status": "Pending"
     },
     {
