@@ -1,12 +1,120 @@
 [
     {
+        "date": "09/04/26",
+        "time": "20:00",
+        "league": "UEFA  - Europa League",
+        "match": "Bologna ➖ Aston Villa",
+        "prediction": "Away win",
+        "odds": "2.50",
+        "status": "Pending"
+    },
+    {
+        "date": "09/04/26",
+        "time": "20:00",
+        "league": "UEFA - Europa League",
+        "match": "Porto➖ Nottingham Forest",
+        "prediction": "GG+Over 2.5",
+        "odds": "3.20",
+        "status": "Pending"
+    },
+    {
+        "date": "08/04/26",
+        "time": "20:00",
+        "league": "UEFA  - Champions League",
+        "match": "PSG ➖ Liverpool",
+        "prediction": "Home+ Over 2.5",
+        "odds": "2.60",
+        "status": "2:0❌"
+    },
+    {
+        "date": "08/04/26",
+        "time": "20:00",
+        "league": "UEFA - Champions League",
+        "match": "Barcelona➖Atletic Madrid",
+        "prediction": "Home Over 2.5",
+        "odds": "2.50",
+        "status": "0:2❌"
+    },
+    {
+        "date": "07/04/26",
+        "time": "21:00",
+        "league": "Colombia - Torneo Dimayor",
+        "match": "Boca Juniors ➖ Independiente Yumbo",
+        "prediction": "Home/Draw+Under 3.5",
+        "odds": "2.50",
+        "status": "0:0â"
+    },
+    {
+        "date": "07/04/26",
+        "time": "20:00",
+        "league": "UEFA - Champions League",
+        "match": "Real Madrid➖ Bayern Munich",
+        "prediction": "Over 3.5",
+        "odds": "2.50",
+        "status": "1:2❌"
+    },
+    {
+        "date": "06/04/26",
+        "time": "13:30",
+        "league": "Norway - Eliteserien",
+        "match": "Valerenga ➖ Viking",
+        "prediction": "Away win",
+        "odds": "2.75",
+        "status": "0:1â"
+    },
+    {
+        "date": "06/04/26",
+        "time": "15:00",
+        "league": "England - Championship",
+        "match": "Ipswich➖ Birmingham City",
+        "prediction": "Home+GG",
+        "odds": "3.25",
+        "status": "2:1â"
+    },
+    {
+        "date": "05/04/26",
+        "time": "20:00",
+        "league": "Spain - Laliga",
+        "match": "Alaves➖ Osasuna",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.75",
+        "status": "2:2â"
+    },
+    {
+        "date": "05/04/26",
+        "time": "17:30",
+        "league": "Spain -Laiga Hypermotion",
+        "match": "Almeria➖ CD Legenes",
+        "prediction": "Home+Over 2.5",
+        "odds": "2.95",
+        "status": "2:1â"
+    },
+    {
+        "date": "04/04/26",
+        "time": "20:00",
+        "league": "Netherlands - Eredivisie",
+        "match": "Excelsior Rotterdam➖ NEC Nijemgen",
+        "prediction": "Away+Over 1.5",
+        "odds": "2.75",
+        "status": "0:2â"
+    },
+    {
+        "date": "04/04/26",
+        "time": "17:00",
+        "league": "Switzerland -Super League",
+        "match": "Lugano➖ FC Thun",
+        "prediction": "Home win",
+        "odds": "2.55",
+        "status": "1:0â"
+    },
+    {
         "date": "02/04/26",
         "time": "19:00",
         "league": "Argentina - Primera LPF",
         "match": "Barracas Central➖ CA Sarmiento Junin",
         "prediction": "Draw",
         "odds": "2.95",
-        "status": "Pending"
+        "status": "1:2❌"
     },
     {
         "date": "02/04/26",
@@ -15,7 +123,7 @@
         "match": "Tigres➖ Independiente Rivadavia",
         "prediction": "HT Draw",
         "odds": "2.55",
-        "status": "Pending"
+        "status": "0:1❌"
     },
     {
         "date": "31/03/26",
@@ -31,9 +139,9 @@
         "time": "18:00",
         "league": "Spain -Liga Hypermotion",
         "match": "CD Mirandes➖ Albacete Balompie",
-        "prediction": "GG+Over 2.5",
+        "prediction": "Draw/Away+GG",
         "odds": "2.65",
-        "status": "1:1❌"
+        "status": "1:1â"
     },
     {
         "date": "30/03/26",
