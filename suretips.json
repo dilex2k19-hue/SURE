@@ -1,12 +1,66 @@
 [
     {
+        "date": "13/04/26",
+        "time": "18:00",
+        "league": "Sweden - Allsvenskan",
+        "match": "IK Sirius ➖ Hammerby IF",
+        "prediction": "Away Over 1.5",
+        "odds": "2.45",
+        "status": "Pending"
+    },
+    {
+        "date": "13/04/26",
+        "time": "02:10",
+        "league": "Colombia - Torneo Dimayor",
+        "match": "Barranquilla ➖ Envigado FC",
+        "prediction": "GG+Over 2.5",
+        "odds": "2.80",
+        "status": "Pending"
+    },
+    {
+        "date": "12/04/26",
+        "time": "16:30",
+        "league": "England - Premier League",
+        "match": "Chelsea ➖ Manchester city",
+        "prediction": "Away Win",
+        "odds": "2.40",
+        "status": "0:3â"
+    },
+    {
+        "date": "12/04/26",
+        "time": "14:00",
+        "league": "England - Premier League",
+        "match": "Nottingham ➖ Aston Villa",
+        "prediction": "Home/Draw+GG",
+        "odds": "2.70",
+        "status": "1:1â"
+    },
+    {
+        "date": "11/04/26",
+        "time": "17:30",
+        "league": "Germany - Bundesliga",
+        "match": "ST Pauli ➖ Bayern Munich",
+        "prediction": "Away+GG",
+        "odds": "2.95",
+        "status": "0:6❌"
+    },
+    {
+        "date": "11/04/26",
+        "time": "18:00",
+        "league": "Turkiye - Super Lig",
+        "match": "Kayserispor➖ Fenerbahce",
+        "prediction": "Away Over 2.5",
+        "odds": "2.90",
+        "status": "0:3â"
+    },
+    {
         "date": "09/04/26",
         "time": "20:00",
         "league": "UEFA  - Europa League",
         "match": "Bologna ➖ Aston Villa",
         "prediction": "Away win",
         "odds": "2.50",
-        "status": "Pending"
+        "status": "0:2â"
     },
     {
         "date": "09/04/26",
@@ -15,7 +69,7 @@
         "match": "Porto➖ Nottingham Forest",
         "prediction": "GG+Over 2.5",
         "odds": "3.20",
-        "status": "Pending"
+        "status": "1:1❌"
     },
     {
         "date": "08/04/26",
@@ -49,9 +103,9 @@
         "time": "20:00",
         "league": "UEFA - Champions League",
         "match": "Real Madrid➖ Bayern Munich",
-        "prediction": "Over 3.5",
+        "prediction": "Away+Over 2.5",
         "odds": "2.50",
-        "status": "1:2❌"
+        "status": "1:2â"
     },
     {
         "date": "06/04/26",
