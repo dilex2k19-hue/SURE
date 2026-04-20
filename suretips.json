@@ -1,12 +1,102 @@
 [
     {
+        "date": "19/04/26",
+        "time": "14:00",
+        "league": "France - Ligue 1",
+        "match": "Monaco ➖ AJ Auxerre",
+        "prediction": "Home+Over 2.5",
+        "odds": "2.50",
+        "status": "2:2❌"
+    },
+    {
+        "date": "19/04/26",
+        "time": "16:30",
+        "league": "Germany- Bundesliga",
+        "match": "Bayern Munich ➖ Stuttgart",
+        "prediction": "Home+Over 3.5",
+        "odds": "2.40",
+        "status": "4:2â"
+    },
+    {
+        "date": "18/04/26",
+        "time": "20:00",
+        "league": "England - Premier League",
+        "match": "Chelsea ➖ Manchester United",
+        "prediction": "Away win",
+        "odds": "3.50",
+        "status": "0:1â"
+    },
+    {
+        "date": "18/04/26",
+        "time": "18:30",
+        "league": "Belgium- Nationale 1 VV",
+        "match": "KFC Dessel Sport ➖ Cercle Brugge",
+        "prediction": "Over 3.5",
+        "odds": "2.35",
+        "status": "2:2â"
+    },
+    {
+        "date": "17/04/26",
+        "time": "19:45",
+        "league": "France - Ligue 1",
+        "match": "RC Lens ➖ Toulous",
+        "prediction": "Home+Over 2.5",
+        "odds": "2.35",
+        "status": "3:2â"
+    },
+    {
+        "date": "17/04/26",
+        "time": "18:00",
+        "league": "Turkiye- Super lig",
+        "match": "Fenerbhace ➖ Caykur Rizespor",
+        "prediction": "Home Over 2.5",
+        "odds": "2.65",
+        "status": "2:2❌"
+    },
+    {
+        "date": "16/04/26",
+        "time": "17:45",
+        "league": "Europe - Conference League",
+        "match": "AZ Alkmear ➖ Shakhatar D",
+        "prediction": "Home Over 1.5",
+        "odds": "2.40",
+        "status": "2:2â"
+    },
+    {
+        "date": "16/04/26",
+        "time": "20:00",
+        "league": "UEFA - Europa League",
+        "match": "Aston Villa ➖ Bologna",
+        "prediction": "Home+Over 2.5",
+        "odds": "2.70",
+        "status": "4:0â"
+    },
+    {
+        "date": "14/04/26",
+        "time": "15:00",
+        "league": "Cyprus - First Division",
+        "match": "Aris Limassol ➖ Pafos",
+        "prediction": "Draw/Away+GG",
+        "odds": "2.40",
+        "status": "1:1â"
+    },
+    {
+        "date": "14/04/26",
+        "time": "16:00",
+        "league": "Latvia - Virsliga",
+        "match": "SK Super Nova ➖ Riga FC",
+        "prediction": "Away+GG",
+        "odds": "3.50",
+        "status": "1:4â"
+    },
+    {
         "date": "13/04/26",
         "time": "18:00",
         "league": "Sweden - Allsvenskan",
         "match": "IK Sirius ➖ Hammerby IF",
         "prediction": "Away Over 1.5",
         "odds": "2.45",
-        "status": "Pending"
+        "status": "2:0❌"
     },
     {
         "date": "13/04/26",
@@ -15,7 +105,7 @@
         "match": "Barranquilla ➖ Envigado FC",
         "prediction": "GG+Over 2.5",
         "odds": "2.80",
-        "status": "Pending"
+        "status": "1:2â"
     },
     {
         "date": "12/04/26",
@@ -40,9 +130,9 @@
         "time": "17:30",
         "league": "Germany - Bundesliga",
         "match": "ST Pauli ➖ Bayern Munich",
-        "prediction": "Away+GG",
+        "prediction": "Away+Over 3.5",
         "odds": "2.95",
-        "status": "0:6❌"
+        "status": "0:6â"
     },
     {
         "date": "11/04/26",
@@ -67,9 +157,9 @@
         "time": "20:00",
         "league": "UEFA - Europa League",
         "match": "Porto➖ Nottingham Forest",
-        "prediction": "GG+Over 2.5",
+        "prediction": "Home/Draw+GG",
         "odds": "3.20",
-        "status": "1:1❌"
+        "status": "1:1â"
     },
     {
         "date": "08/04/26",
